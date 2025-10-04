@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>新闻 on 猫鼠乐园</title>
+        <link>http://localhost:1313/my-homepage/page/news/</link>
+        <description>Recent content in 新闻 on 猫鼠乐园</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Fri, 03 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/page/news/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>记录一些重要事件</title>
+        <link></link>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
+        <title>网站雏形搭建好啦！</title>
+        <link></link>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description>&lt;p&gt;我们的网站雏形搭建好啦！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Jane Goodall去世🕯</title>
+        <link></link>
+        <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
+        <title>今天是祖国76岁的生日，祝福祖国繁荣昌盛🇨🇳</title>
+        <link></link>
+        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description>&lt;p&gt;今天是我们的200天纪念日！今天也是二十四节气中的霜露。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
