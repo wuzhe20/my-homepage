@@ -7,10 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Fri, 03 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>记录一些重要事件</title>
+        <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>在东操场的看台上野餐，度过了一个美好的中秋🌕</title>
         <link></link>
-        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
         
         <guid></guid>
         <description></description>
@@ -25,7 +25,7 @@
 </description>
         </item>
         <item>
-        <title>Jane Goodall去世🕯</title>
+        <title>带鼠鼠看病，在医院得知Jane Goodall去世🕯</title>
         <link></link>
         <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
         
