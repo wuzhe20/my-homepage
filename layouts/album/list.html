@@ -1,0 +1,22 @@
+{{ define "main" }}
+<section class="album-gallery" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:20px; padding:20px;">
+
+  {{/* 获取 album 类型页面 */}}
+  {{ $pages := where .Pages "Type" "album" }}
+  {{ range $pages }}
+    <div class="album-card" style="background:white; border-radius:16px; overflow:hidden; box-shadow:0 4px 12px rgba(0,0,0,0.1); transition:transform 0.3s;">
+      {{ with .Params.images }}
+        <img src="{{ index . 0 }}" alt="{{ $.Title }}" style="width:100%; height:200px; object-fit:cover;">
+      {{ else }}
+        <div style="width:100%; height:200px; background:#eee; display:flex; align-items:center; justify-content:center; color:#999;">无图片</div>
+      {{ end }}
+      <div style="padding:15px;">
+        <h3 style="margin:0 0 8px; font-size:1.1rem;">{{ .Title }}</h3>
+        <p style="color:#666; font-size:0.9rem;">{{ .Date.Format "2006-01-02" }}</p>
+        <p style="margin-top:10px; color:#444;">{{ .Summary | default (.Content | plainify | truncate 80) }}</p>
+      </div>
+    </div>
+  {{ end }}
+
+</section>
+{{ end }}

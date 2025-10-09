@@ -23,7 +23,7 @@ languages:
     zh-cn:
         languageName: 中文
         title: 猫鼠乐园
-        weight: 3
+        weight: 1
         params:
             sidebar:
                 subtitle: 猫师兄与鼠师妹的天地
@@ -37,7 +37,7 @@ services:
         id:
 
 pagination:
-    pagerSize: 3
+    pagerSize: 5
 
 permalinks:
     post: /p/:slug/

@@ -1,0 +1,65 @@
+{{ define "main" }}
+    <section class="news-block">
+        {{ $pages := where .Pages "Type" "news" }}
+        {{ $paginator := .Paginate .Pages 5}}
+        {{ range $paginator.Pages }}
+            <div class="news-item">
+                <h2>{{ .Title }}</h2>
+                <div class="news-content">
+                    {{ .Content }}
+                </div>
+            </div>
+        {{ end }}
+    </section>
+
+    {{- partial "pagination.html" . -}}
+    {{ partialCached "footer/footer" . }}
+
+
+
+    
+    {{- $subsections := .Sections -}}
+    {{- $pages := .Pages | complement $subsections -}}
+    
+    {{- if eq (len $pages) 0 -}}
+        {{/* If there are no normal pages, display subsections in list style, with pagination */}}
+        {{/* This happens with taxonomies like categories or tags */}}
+        {{- $pages = $subsections -}}
+        {{- $subsections = slice -}}
+    {{- end -}}
+
+
+
+
+    {{- with $subsections -}}
+        <aside>
+            <h2 class="section-title">{{ T "list.subsection" (len $subsections) }}</h2>
+            <div class="subsection-list">
+                <div class="article-list--tile">
+                    {{ range . }}
+                        {{ partial "article-list/tile" (dict "context" . "size" "250x150" "Type" "section") }}
+                    {{ end }}
+                </div>
+            </div>
+        </aside>
+    {{- end -}}
+    
+    {{/* List only pages that are not a subsection */}}
+    {{ $paginator := .Paginate $pages }}
+    <section class="news-block">
+        {{ range $paginator.Pages }}
+            <div class="news-item">
+            <h2>{{ .Title }}</h2>
+        <div class="news-content">
+            {{ .Content }}
+             </div>
+          </div>
+        {{ end }}
+    </section>
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}
+
+
