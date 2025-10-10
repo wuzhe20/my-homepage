@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/page/news/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 08 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/page/news/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>在一起200天啦！这几天北京阴雨绵绵，小猫送给小鼠一本ΣYMΠOΣION</title>
+        <link></link>
+        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
         <title>在东操场的看台上野餐，度过了一个美好的中秋🌕</title>
         <link></link>
         <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
