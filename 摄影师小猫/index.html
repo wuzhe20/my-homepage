@@ -367,7 +367,26 @@
     <section class="article-content">
     
     
-    <h2 id="图片">图片
+    <style>
+.image-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+.image-grid img {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  border-radius: 10px;
+}
+@media (max-width: 768px) {
+  .image-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+<h2 id="图片">图片
 </h2><div style="display: grid; grid-template-columns: 1fr; gap: 15px;margin-bottom: 15px;">
   <img src="yiheyuan.jpg" alt="图1" style="width: 100%; height: auto; object-fit: cover;">
 </div>
