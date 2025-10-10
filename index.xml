@@ -20,16 +20,15 @@
   gap: 15px;
   margin-bottom: 15px;
 }
-.image-grid img {
-  width: 100%;
-  aspect-ratio: 3 / 2;
-  object-fit: cover;
-  border-radius: 10px;
+/* 两侧图比例更“高” */
+.image-grid img:first-child,
+.image-grid img:last-child {
+  aspect-ratio: 3 / 4; /* 宽 : 高 = 3:1 → 看起来更扁长 */
 }
-@media (max-width: 768px) {
-  .image-grid {
-    grid-template-columns: 1fr;
-  }
+
+/* 中间图保持原比例 */
+.image-grid img:nth-child(2){
+  aspect-ratio: 3 / 2;
 }
 &lt;/style&gt;
 &lt;h2 id=&#34;图片&#34;&gt;图片
@@ -37,9 +36,9 @@
   &lt;img src=&#34;yiheyuan.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
 &lt;/div&gt;
 &lt;div class =&#34;image-grid&#34;&gt;
-  &lt;img src=&#34;shanghai.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 10px;&#34;&gt;
-  &lt;img src=&#34;zhuhai.jpg&#34; alt=&#34;图2&#34; style=&#34;width: 100%; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 10px;&#34;&gt;
-  &lt;img src=&#34;ji.jpg&#34; alt=&#34;图3&#34; style=&#34;width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 10px;&#34;&gt;
+  &lt;img src=&#34;shanghai.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+  &lt;img src=&#34;zhuhai.jpg&#34; alt=&#34;图2&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+  &lt;img src=&#34;ji.jpg&#34; alt=&#34;图3&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
 &lt;/div&gt;
 &lt;div style=&#34;display: grid; grid-template-columns: 1fr 1fr; gap: 15px;margin-bottom: 15px;&#34;&gt;
    &lt;img src=&#34;jingyuetan.jpg&#34; alt=&#34;图4&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
