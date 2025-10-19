@@ -372,10 +372,28 @@
     
     
     <h2 id="图片">图片
-</h2><p><img src="/my-homepage/test-chinese/beautiful.jpg"
+</h2><style>
+.image-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+/* 两侧图比例更“高” */
+.image-grid img:first-child,
+.image-grid img:last-child {
+  aspect-ratio: 3 / 4; /* 宽 : 高 = 3:1 → 看起来更扁长 */
+}
+
+/* 中间图保持原比例 */
+.image-grid img:nth-child(2){
+  aspect-ratio: 3 / 2;
+}
+</style>
+<p><img src="/my-homepage/test-chinese/confusion.jpg"
 	width="4080"
 	height="3072"
-	srcset="/my-homepage/test-chinese/beautiful_hu_397a2b443701cc23.jpg 480w, /my-homepage/test-chinese/beautiful_hu_ebda81756a732fc0.jpg 1024w"
+	srcset="/my-homepage/test-chinese/confusion_hu_5d071de2d4d4dc4d.jpg 480w, /my-homepage/test-chinese/confusion_hu_454ae90c2dc1a27c.jpg 1024w"
 	loading="lazy"
 	
 		alt="Photo by 摄影师小鼠,at BNU"
@@ -399,13 +417,22 @@
 		data-flex-basis="318px"
 	
 ></p>
-<div style="display: grid; grid-template-columns: 1fr 2fr 1fr; gap: 15px;">
+<div style="display: grid; grid-template-columns: 1fr 2fr 1fr; gap: 15px;margin-bottom: 15px;">
   <img src="beautiful.jpg" alt="图1" style="width: 100%; height: 150px; object-fit: cover;">
   <img src="beautiful.jpg" alt="图2" style="width: 100%; height: 150px; object-fit: cover;"> <!-- 高度减半 -->
   <img src="beautiful.jpg" alt="图3" style="width: 100%; height: 150px; object-fit: cover;">
   <img src="beautiful.jpg" alt="图4" style="width: 100%; height: 150px; object-fit: cover;">
   <img src="beautiful.jpg" alt="图5" style="width: 100%; height: 150px; object-fit: cover;"> <!-- 高度减半 -->
   <img src="beautiful.jpg" alt="图6" style="width: 100%; height: 150px; object-fit: cover;">
+</div>
+<div class ="image-grid">
+  <img src="autumn.jpg" alt="图1" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;">
+  <img src="beautiful.jpg" alt="图2" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;">
+  <img src="autumn.jpg" alt="图3" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;">
+</div>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;margin-bottom: 15px;">
+   <img src="autumn.jpg" alt="图4" style="width: 100%; height: auto; object-fit: cover;">
+  <img src="autumn.jpg" alt="图5" style="width: 100%; height: auto; object-fit: cover;"> <!-- 高度减半 -->
 </div>
 </section>
 
@@ -612,6 +639,21 @@
     z-index: -1;
   }
 </style>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+
+<meting-js
+  server="tencent"
+  type="playlist"
+  id="9595796032"
+  fixed="true"
+  autoplay="true"
+  theme="#ad7a86">
+</meting-js>
 
 
     </body>
