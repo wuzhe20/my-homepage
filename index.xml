@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>天气很好，猫鼠一起去了天坛公园，在冷冷的傍晚一起吃了顿火锅。超级幸福！🥰</title>
+        <link></link>
+        <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
         <title>我们都熟知的杨振宁先生今日去世了，凡人的生命总有到尽头的那天🙏</title>
         <link></link>
         <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
