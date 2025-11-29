@@ -7,7 +7,63 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/categories/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/categories/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>SDE</title>
+        <link>http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</link>
+        <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</guid>
+        <description>&lt;img src="http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post SDE" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+&lt;/h2&gt;&lt;p&gt;    本文主要参考港中深的暑期班讲义和Bernt的入门级教材，本人才疏学浅，也非概率或金融方向，内容仅供参考。
+&lt;br/&gt;
+    我们要研究如何求解以下形式的方程
+&lt;/p&gt;
+$$ \dfrac{dX}{dt} = b(t,X_t) + \sigma(t,X_t)\cdot B_t
+$$&lt;p&gt;
+其中b和$\sigma$是给定的函数。我们先考虑一维情况
+&lt;br/&gt;
+对于连续的鞅, 我们有如下重要的不等式(不加证明)。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Theorem(Doob&amp;rsquo;s martingale inequality)&lt;/strong&gt;
+&lt;br/&gt;
+如果$M_t$是一个鞅, 使得$t \rightarrow M_t$是几乎处处连续的, 则对于任意的$p\geq 1$, $T\geq 0$和所有$\lambda&amp;gt; 0$
+&lt;/p&gt;
+$$P[\sup_{o\leq t\leq T} \lvert M_t\rvert\geq \lambda]\leq\dfrac{1}{\lambda^p}\cdot E[\lvert M_T\rvert^p]$$&lt;p&gt;
+我们将使用这个不等式证明, Ito积分
+&lt;/p&gt;
+$$ \int_{0}^{t} f(s,\omega)\, dB_s $$&lt;p&gt;
+可以被选择成连续的依赖$t$.
+&lt;strong&gt;Theorem&lt;/strong&gt;
+&lt;br/&gt;
+令$f \in \nu(0,T)$, 则存在一个关于t连续版本的积分
+&lt;/p&gt;
+$$ \int_{0}^{t} f(s,\omega)\, dB_s; \quad 0\leq t\leq T. $$&lt;p&gt;
+即存在一个概率空间$(\Omega,\mathcal{F},P)$上的t-连续随机过程$J_t$, 使得
+&lt;/p&gt;
+$$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>圬者23</title>
+        <link>http://localhost:1313/my-homepage/p/not-test/</link>
+        <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-homepage/p/not-test/</guid>
+        <description>&lt;img src="http://localhost:1313/my-homepage/p/not-test/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 圬者23" /&gt;&lt;p&gt;    
+本科毕业之后经常担心生存的问题，我对自己以后能做什么充满疑惑。最近听到了一句英文俗语&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Jack of all trades, master of none&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;大概是指那些样样都了解一点，但没有一件事物精通的人。这可不行呀，以后我还要用我专精的“劳动”换取别人的“劳动”不是。&lt;/p&gt;
+&lt;p&gt;    
+研究生上的课以后大概很难用到，没辙。我以上班的心态对待这一阶段，所以也没有太多怨言。&lt;/p&gt;
+&lt;p&gt;    我很喜欢契诃夫的《海鸥》。剧中的妮娜是一个既悲又喜的角色。因为她遇上特里果林而蒙受的不幸，我们可以说她就是那只在平静湖面上被无故射落的海鸥。她在追求光荣和她梦想之事物的道路上神经紧张，想象力也有错乱。但幸运的是，与特里波列夫不同，她最后不再被理想化的自己所困了。主要的不是光荣，也不是名声，问题也不在形式是旧的还是新的。而是要真实的表达，要有耐心，要有信心，要有勇气和使命感，就不会害怕面对生活。即便无法做到本想成为的样子，也不该被哀怨和嫉妒蒙蔽内心。斯坦尼斯拉夫斯基说：&lt;strong&gt;“爱自己心中的艺术，而不是爱艺术中的自己。”&lt;/strong&gt;，如果做事情“我”的成分过多了，恐怕会出问题。&lt;/p&gt;
+&lt;p&gt;    今年看了布图索夫导演的《海鸥》，结尾最震撼的对话借四组人物反复了四次，每一次的侧重点稍有不同。夸大的演出形式与入木三分的对白使整部作品变得完整而深刻。&lt;/p&gt;
+&lt;p&gt;    不能说自律的人是由于某种放纵，说他们是因为不能抑制某些快乐才终于抑制另一些快乐。我某种程度相信柏拉图的想法，事物的本质不会变到其反面。感觉这和“一个正义的人不会用正义造成不正义的人”是一个道理。要经常用心去感受，大脑思考。去伪存真，区分出什么是体验，什么是真正的认识。&lt;/p&gt;
+&lt;p&gt;    
+有时觉得自己很无用，因为AI可以解决很多问题，而且做得比我更好。即便如此，我的身边人也总是鼓励我多表达，讲出自己的感受。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>http://localhost:1313/my-homepage/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
@@ -93,42 +149,6 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Typlog&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Chinese Test</title>
-        <link>http://localhost:1313/my-homepage/p/test-chinese/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/my-homepage/p/test-chinese/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
-&lt;/h2&gt;&lt;p&gt;    本文主要参考港中深的暑期班讲义和Bernt的入门级教材，本人才疏学浅，也非概率或金融方向，内容仅供参考。
-&lt;br/&gt;
-    我们要研究如何求解以下形式的方程
-&lt;/p&gt;
-$$ \dfrac{dX}{dt} = b(t,X_t) + \sigma(t,X_t)\cdot B_t
-$$&lt;p&gt;
-其中b和$\sigma$是给定的函数。我们先考虑一维情况
-&lt;br/&gt;
-对于连续的鞅, 我们有如下重要的不等式(不加证明)。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Theorem(Doob&amp;rsquo;s martingale inequality)&lt;/strong&gt;
-&lt;br/&gt;
-如果$M_t$是一个鞅, 使得$t \rightarrow M_t$是几乎处处连续的, 则对于任意的$p\geq 1$, $T\geq 0$和所有$\lambda&amp;gt; 0$
-&lt;/p&gt;
-$$P[\sup_{o\leq t\leq T} \lvert M_t\rvert\geq \lambda]\leq\dfrac{1}{\lambda^p}\cdot E[\lvert M_T\rvert^p]$$&lt;p&gt;
-我们将使用这个不等式证明, Ito积分
-&lt;/p&gt;
-$$ \int_{0}^{t} f(s,\omega)\, dB_s $$&lt;p&gt;
-可以被选择成连续的依赖$t$.
-&lt;strong&gt;Theorem&lt;/strong&gt;
-&lt;br/&gt;
-令$f \in \nu(0,T)$, 则存在一个关于t连续版本的积分
-&lt;/p&gt;
-$$ \int_{0}^{t} f(s,\omega)\, dB_s; \quad 0\leq t\leq T. $$&lt;p&gt;
-即存在一个概率空间$(\Omega,\mathcal{F},P)$上的t-连续随机过程$J_t$, 使得
-&lt;/p&gt;
-$$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&lt;/blockquote&gt;
 </description>
         </item>
         
