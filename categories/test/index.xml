@@ -96,6 +96,42 @@
 </description>
         </item>
         <item>
+        <title>Chinese Test</title>
+        <link>http://localhost:1313/my-homepage/p/test-chinese/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-homepage/p/test-chinese/</guid>
+        <description>&lt;img src="http://localhost:1313/my-homepage/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+&lt;/h2&gt;&lt;p&gt;    本文主要参考港中深的暑期班讲义和Bernt的入门级教材，本人才疏学浅，也非概率或金融方向，内容仅供参考。
+&lt;br/&gt;
+    我们要研究如何求解以下形式的方程
+&lt;/p&gt;
+$$ \dfrac{dX}{dt} = b(t,X_t) + \sigma(t,X_t)\cdot B_t
+$$&lt;p&gt;
+其中b和$\sigma$是给定的函数。我们先考虑一维情况
+&lt;br/&gt;
+对于连续的鞅, 我们有如下重要的不等式(不加证明)。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Theorem(Doob&amp;rsquo;s martingale inequality)&lt;/strong&gt;
+&lt;br/&gt;
+如果$M_t$是一个鞅, 使得$t \rightarrow M_t$是几乎处处连续的, 则对于任意的$p\geq 1$, $T\geq 0$和所有$\lambda&amp;gt; 0$
+&lt;/p&gt;
+$$P[\sup_{o\leq t\leq T} \lvert M_t\rvert\geq \lambda]\leq\dfrac{1}{\lambda^p}\cdot E[\lvert M_T\rvert^p]$$&lt;p&gt;
+我们将使用这个不等式证明, Ito积分
+&lt;/p&gt;
+$$ \int_{0}^{t} f(s,\omega)\, dB_s $$&lt;p&gt;
+可以被选择成连续的依赖$t$.
+&lt;strong&gt;Theorem&lt;/strong&gt;
+&lt;br/&gt;
+令$f \in \nu(0,T)$, 则存在一个关于t连续版本的积分
+&lt;/p&gt;
+$$ \int_{0}^{t} f(s,\omega)\, dB_s; \quad 0\leq t\leq T. $$&lt;p&gt;
+即存在一个概率空间$(\Omega,\mathcal{F},P)$上的t-连续随机过程$J_t$, 使得
+&lt;/p&gt;
+$$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
         <title>Placeholder Text</title>
         <link>http://localhost:1313/my-homepage/p/placeholder-text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
