@@ -7,17 +7,73 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/page/album/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 09 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/page/album/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>摄影师小猫</title>
+        <link>http://localhost:1313/my-homepage/%E6%91%84%E5%BD%B1%E5%B8%88%E5%B0%8F%E7%8C%AB/</link>
+        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-homepage/%E6%91%84%E5%BD%B1%E5%B8%88%E5%B0%8F%E7%8C%AB/</guid>
+        <description>&lt;img src="http://localhost:1313/my-homepage/cat.jpg" alt="Featured image of post 摄影师小猫" /&gt;&lt;style&gt;
+.image-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+/* 两侧图比例更“高” */
+.image-grid img:first-child,
+.image-grid img:last-child {
+  aspect-ratio: 3 / 4; /* 宽 : 高 = 3:1 → 看起来更扁长 */
+}
+
+/* 中间图保持原比例 */
+.image-grid img:nth-child(2){
+  aspect-ratio: 3 / 2;
+}
+&lt;/style&gt;
+&lt;h2 id=&#34;图片&#34;&gt;图片
+&lt;/h2&gt;&lt;div style=&#34;display: grid; grid-template-columns: 1fr; gap: 15px;margin-bottom: 15px;&#34;&gt;
+  &lt;img src=&#34;yiheyuan.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
+&lt;/div&gt;
+&lt;div class =&#34;image-grid&#34;&gt;
+  &lt;img src=&#34;shanghai.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+  &lt;img src=&#34;zhuhai.jpg&#34; alt=&#34;图2&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+  &lt;img src=&#34;ji.jpg&#34; alt=&#34;图3&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: grid; grid-template-columns: 1fr 1fr; gap: 15px;margin-bottom: 15px;&#34;&gt;
+   &lt;img src=&#34;jingyuetan.jpg&#34; alt=&#34;图4&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
+  &lt;img src=&#34;renyi.jpg&#34; alt=&#34;图5&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
         <title>摄影师小鼠</title>
         <link>http://localhost:1313/my-homepage/test-chinese/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/my-homepage/test-chinese/</guid>
         <description>&lt;img src="http://localhost:1313/my-homepage/test-chinese/beautiful.jpg" alt="Featured image of post 摄影师小鼠" /&gt;&lt;h2 id=&#34;图片&#34;&gt;图片
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-homepage/test-chinese/beautiful.jpg&#34;
+&lt;/h2&gt;&lt;style&gt;
+.image-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+/* 两侧图比例更“高” */
+.image-grid img:first-child,
+.image-grid img:last-child {
+  aspect-ratio: 3 / 4; /* 宽 : 高 = 3:1 → 看起来更扁长 */
+}
+
+/* 中间图保持原比例 */
+.image-grid img:nth-child(2){
+  aspect-ratio: 3 / 2;
+}
+&lt;/style&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-homepage/test-chinese/confusion.jpg&#34;
 	width=&#34;4080&#34;
 	height=&#34;3072&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/test-chinese/beautiful_hu_397a2b443701cc23.jpg 480w, http://localhost:1313/my-homepage/test-chinese/beautiful_hu_ebda81756a732fc0.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/my-homepage/test-chinese/confusion_hu_5d071de2d4d4dc4d.jpg 480w, http://localhost:1313/my-homepage/test-chinese/confusion_hu_454ae90c2dc1a27c.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by 摄影师小鼠,at BNU&#34;
@@ -41,13 +97,22 @@
 		data-flex-basis=&#34;318px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;div style=&#34;display: grid; grid-template-columns: 1fr 2fr 1fr; gap: 15px;&#34;&gt;
+&lt;div style=&#34;display: grid; grid-template-columns: 1fr 2fr 1fr; gap: 15px;margin-bottom: 15px;&#34;&gt;
   &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
   &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图2&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
   &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图3&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
   &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图4&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
   &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图5&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
   &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图6&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
+&lt;/div&gt;
+&lt;div class =&#34;image-grid&#34;&gt;
+  &lt;img src=&#34;autumn.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图2&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+  &lt;img src=&#34;autumn.jpg&#34; alt=&#34;图3&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: grid; grid-template-columns: 1fr 1fr; gap: 15px;margin-bottom: 15px;&#34;&gt;
+   &lt;img src=&#34;autumn.jpg&#34; alt=&#34;图4&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
+  &lt;img src=&#34;autumn.jpg&#34; alt=&#34;图5&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
 &lt;/div&gt;</description>
         </item>
         

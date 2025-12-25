@@ -7,7 +7,243 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 14 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>何晴女士昨日在京离世🕯️，她曾在《红楼梦》中饰演秦可卿。往往红颜薄命，天妒英才🙏。人的生命在过去看来十分平常的一天到了尽头。</title>
+        <link></link>
+        <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
+        <title>2025年冬天的初雪❄️！这是小鼠第三次在北京看雪，也是第一次和小猫看雪。小猫不畏流感前往故宫，为小鼠送去雪中故宫图景。小鼠送给小猫一只火红的玫瑰🌹。傍晚，他们在学校里游荡，堆雪人⛄️，捏雪玫瑰，在雪地上躺卧，写写画画。这场雪成全了许多人的愿望☺️。今年是故宫建院100周年，它与人可以相守百年甚至更久，而人与人相守百年只是最美好的愿望🎋。</title>
+        <link></link>
+        <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
+        <title>SDE</title>
+        <link>http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</link>
+        <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</guid>
+        <description>&lt;img src="http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post SDE" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+&lt;/h2&gt;&lt;p&gt;    本文主要参考港中深的暑期班讲义和Bernt的入门级教材，本人才疏学浅，也非概率或金融方向，内容仅供参考。
+&lt;br/&gt;
+    我们要研究如何求解以下形式的方程
+&lt;/p&gt;
+$$ \dfrac{dX}{dt} = b(t,X_t) + \sigma(t,X_t)\cdot B_t
+$$&lt;p&gt;
+其中b和$\sigma$是给定的函数。我们先考虑一维情况
+&lt;br/&gt;
+对于连续的鞅, 我们有如下重要的不等式(不加证明)。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Theorem(Doob&amp;rsquo;s martingale inequality)&lt;/strong&gt;
+&lt;br/&gt;
+如果$M_t$是一个鞅, 使得$t \rightarrow M_t$是几乎处处连续的, 则对于任意的$p\geq 1$, $T\geq 0$和所有$\lambda&amp;gt; 0$
+&lt;/p&gt;
+$$P[\sup_{o\leq t\leq T} \lvert M_t\rvert\geq \lambda]\leq\dfrac{1}{\lambda^p}\cdot E[\lvert M_T\rvert^p]$$&lt;p&gt;
+我们将使用这个不等式证明, Ito积分
+&lt;/p&gt;
+$$ \int_{0}^{t} f(s,\omega)\, dB_s $$&lt;p&gt;
+可以被选择成连续的依赖$t$.
+&lt;strong&gt;Theorem&lt;/strong&gt;
+&lt;br/&gt;
+令$f \in \nu(0,T)$, 则存在一个关于t连续版本的积分
+&lt;/p&gt;
+$$ \int_{0}^{t} f(s,\omega)\, dB_s; \quad 0\leq t\leq T. $$&lt;p&gt;
+即存在一个概率空间$(\Omega,\mathcal{F},P)$上的t-连续随机过程$J_t$, 使得
+&lt;/p&gt;
+$$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>圬者23</title>
+        <link>http://localhost:1313/my-homepage/p/not-test/</link>
+        <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-homepage/p/not-test/</guid>
+        <description>&lt;img src="http://localhost:1313/my-homepage/p/not-test/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 圬者23" /&gt;&lt;p&gt;    
+本科毕业之后经常担心生存的问题，我对自己以后能做什么充满疑惑。最近听到了一句英文俗语&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Jack of all trades, master of none&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;大概是指那些样样都了解一点，但没有一件事物精通的人。这可不行呀，以后我还要用我专精的“劳动”换取别人的“劳动”不是。&lt;/p&gt;
+&lt;p&gt;    
+研究生上的课以后大概很难用到，没辙。我以上班的心态对待这一阶段，所以也没有太多怨言。&lt;/p&gt;
+&lt;p&gt;    我很喜欢契诃夫的《海鸥》。剧中的妮娜是一个既悲又喜的角色。因为她遇上特里果林而蒙受的不幸，我们可以说她就是那只在平静湖面上被无故射落的海鸥。她在追求光荣和她梦想之事物的道路上神经紧张，想象力也有错乱。但幸运的是，与特里波列夫不同，她最后不再被理想化的自己所困了。主要的不是光荣，也不是名声，问题也不在形式是旧的还是新的。而是要真实的表达，要有耐心，要有信心，要有勇气和使命感，就不会害怕面对生活。即便无法做到本想成为的样子，也不该被哀怨和嫉妒蒙蔽内心。斯坦尼斯拉夫斯基说：&lt;strong&gt;“爱自己心中的艺术，而不是爱艺术中的自己。”&lt;/strong&gt;，如果做事情“我”的成分过多了，恐怕会出问题。&lt;/p&gt;
+&lt;p&gt;    今年看了布图索夫导演的《海鸥》，结尾最震撼的对话借四组人物反复了四次，每一次的侧重点稍有不同。夸大的演出形式与入木三分的对白使整部作品变得完整而深刻。&lt;/p&gt;
+&lt;p&gt;    不能说自律的人是由于某种放纵，说他们是因为不能抑制某些快乐才终于抑制另一些快乐。我某种程度相信柏拉图的想法，事物的本质不会变到其反面。感觉这和“一个正义的人不会用正义造成不正义的人”是一个道理。要经常用心去感受，大脑思考。去伪存真，区分出什么是体验，什么是真正的认识。&lt;/p&gt;
+&lt;p&gt;    
+有时觉得自己很无用，因为AI可以解决很多问题，而且做得比我更好。即便如此，我的身边人也总是鼓励我多表达，讲出自己的感受。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>才过完250天纪念日💕，小鼠飞回南方一阵，小猫送至大兴机场。欣于所遇，暂得于己，怏然自足～</title>
+        <link></link>
+        <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
+        <title>小猫带小鼠来到了昌平校园，我们一起打了篮球🏀和台球🎱。小鼠教小猫“美丑对照原则”👩‍🏫，小猫为小鼠讲约会问题和Bertrand Paradox🧑‍🏫</title>
+        <link></link>
+        <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
+        <title>小鼠对小猫讲起最近李一诺的故事，这是一股在中国践行实用主义教育的民间力量。小鼠说她喜欢这种理想主义者的奋斗，即使结果与愿望出现落差仍呈现一种巨大的审美张力。与之类似的还有俄狄浦斯抗争命运的悲剧。💫</title>
+        <link></link>
+        <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
+        <title>今天小猫23岁啦～鼠鼠特意化妆来找小猫，送给猫咪一捧淡色系的鲜花和一个可爱的小蛋糕，我们又去吃了潮汕火锅～好吃！😋</title>
+        <link></link>
+        <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
+        <title>天气很好，猫鼠一起去了天坛公园，在冷冷的傍晚一起吃了顿火锅。超级幸福！🥰</title>
+        <link></link>
+        <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
+        <title>我们都熟知的杨振宁先生今日去世了，凡人的生命总有到尽头的那天🙏</title>
+        <link></link>
+        <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
+        <title>摄影师小猫</title>
+        <link>http://localhost:1313/my-homepage/%E6%91%84%E5%BD%B1%E5%B8%88%E5%B0%8F%E7%8C%AB/</link>
+        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-homepage/%E6%91%84%E5%BD%B1%E5%B8%88%E5%B0%8F%E7%8C%AB/</guid>
+        <description>&lt;img src="http://localhost:1313/my-homepage/cat.jpg" alt="Featured image of post 摄影师小猫" /&gt;&lt;style&gt;
+.image-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+/* 两侧图比例更“高” */
+.image-grid img:first-child,
+.image-grid img:last-child {
+  aspect-ratio: 3 / 4; /* 宽 : 高 = 3:1 → 看起来更扁长 */
+}
+
+/* 中间图保持原比例 */
+.image-grid img:nth-child(2){
+  aspect-ratio: 3 / 2;
+}
+&lt;/style&gt;
+&lt;h2 id=&#34;图片&#34;&gt;图片
+&lt;/h2&gt;&lt;div style=&#34;display: grid; grid-template-columns: 1fr; gap: 15px;margin-bottom: 15px;&#34;&gt;
+  &lt;img src=&#34;yiheyuan.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
+&lt;/div&gt;
+&lt;div class =&#34;image-grid&#34;&gt;
+  &lt;img src=&#34;shanghai.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+  &lt;img src=&#34;zhuhai.jpg&#34; alt=&#34;图2&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+  &lt;img src=&#34;ji.jpg&#34; alt=&#34;图3&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: grid; grid-template-columns: 1fr 1fr; gap: 15px;margin-bottom: 15px;&#34;&gt;
+   &lt;img src=&#34;jingyuetan.jpg&#34; alt=&#34;图4&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
+  &lt;img src=&#34;renyi.jpg&#34; alt=&#34;图5&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>摄影师小鼠</title>
+        <link>http://localhost:1313/my-homepage/test-chinese/</link>
+        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-homepage/test-chinese/</guid>
+        <description>&lt;img src="http://localhost:1313/my-homepage/test-chinese/beautiful.jpg" alt="Featured image of post 摄影师小鼠" /&gt;&lt;h2 id=&#34;图片&#34;&gt;图片
+&lt;/h2&gt;&lt;style&gt;
+.image-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+/* 两侧图比例更“高” */
+.image-grid img:first-child,
+.image-grid img:last-child {
+  aspect-ratio: 3 / 4; /* 宽 : 高 = 3:1 → 看起来更扁长 */
+}
+
+/* 中间图保持原比例 */
+.image-grid img:nth-child(2){
+  aspect-ratio: 3 / 2;
+}
+&lt;/style&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-homepage/test-chinese/confusion.jpg&#34;
+	width=&#34;4080&#34;
+	height=&#34;3072&#34;
+	srcset=&#34;http://localhost:1313/my-homepage/test-chinese/confusion_hu_5d071de2d4d4dc4d.jpg 480w, http://localhost:1313/my-homepage/test-chinese/confusion_hu_454ae90c2dc1a27c.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Photo by 摄影师小鼠,at BNU&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;132&#34;
+		data-flex-basis=&#34;318px&#34;
+	
+&gt; &lt;img src=&#34;http://localhost:1313/my-homepage/test-chinese/beautiful.jpg&#34;
+	width=&#34;4080&#34;
+	height=&#34;3072&#34;
+	srcset=&#34;http://localhost:1313/my-homepage/test-chinese/beautiful_hu_397a2b443701cc23.jpg 480w, http://localhost:1313/my-homepage/test-chinese/beautiful_hu_ebda81756a732fc0.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;132&#34;
+		data-flex-basis=&#34;318px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;div style=&#34;display: grid; grid-template-columns: 1fr 2fr 1fr; gap: 15px;margin-bottom: 15px;&#34;&gt;
+  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
+  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图2&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
+  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图3&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
+  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图4&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
+  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图5&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
+  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图6&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
+&lt;/div&gt;
+&lt;div class =&#34;image-grid&#34;&gt;
+  &lt;img src=&#34;autumn.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图2&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+  &lt;img src=&#34;autumn.jpg&#34; alt=&#34;图3&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: grid; grid-template-columns: 1fr 1fr; gap: 15px;margin-bottom: 15px;&#34;&gt;
+   &lt;img src=&#34;autumn.jpg&#34; alt=&#34;图4&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
+  &lt;img src=&#34;autumn.jpg&#34; alt=&#34;图5&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>在一起200天啦！这几天北京阴雨绵绵，小猫送给小鼠一本ΣYMΠOΣION</title>
+        <link></link>
+        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
         <title>在东操场的看台上野餐，度过了一个美好的中秋🌕</title>
         <link></link>
         <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
@@ -128,49 +364,6 @@
 &lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Typlog&lt;/a&gt;&lt;/p&gt;
 </description>
-        </item>
-        <item>
-        <title>摄影师小鼠</title>
-        <link>http://localhost:1313/my-homepage/test-chinese/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/my-homepage/test-chinese/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/test-chinese/beautiful.jpg" alt="Featured image of post 摄影师小鼠" /&gt;&lt;h2 id=&#34;图片&#34;&gt;图片
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-homepage/test-chinese/beautiful.jpg&#34;
-	width=&#34;4080&#34;
-	height=&#34;3072&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/test-chinese/beautiful_hu_397a2b443701cc23.jpg 480w, http://localhost:1313/my-homepage/test-chinese/beautiful_hu_ebda81756a732fc0.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by 摄影师小鼠,at BNU&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;132&#34;
-		data-flex-basis=&#34;318px&#34;
-	
-&gt; &lt;img src=&#34;http://localhost:1313/my-homepage/test-chinese/beautiful.jpg&#34;
-	width=&#34;4080&#34;
-	height=&#34;3072&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/test-chinese/beautiful_hu_397a2b443701cc23.jpg 480w, http://localhost:1313/my-homepage/test-chinese/beautiful_hu_ebda81756a732fc0.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;132&#34;
-		data-flex-basis=&#34;318px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;div style=&#34;display: grid; grid-template-columns: 1fr 2fr 1fr; gap: 15px;&#34;&gt;
-  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
-  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图2&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
-  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图3&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
-  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图4&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
-  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图5&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
-  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图6&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
-&lt;/div&gt;</description>
         </item>
         <item>
         <title>归档</title>

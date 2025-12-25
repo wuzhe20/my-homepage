@@ -12,7 +12,18 @@
 <meta property='og:site_name' content='猫鼠乐园'>
 <meta property='og:type' content='article'><meta property='article:section' content='Page' />
 <meta name="twitter:title" content="关于">
-<meta name="twitter:description" content="This is a test page for i18n support.\n">
+<meta name="twitter:description" content="This is a test page for i18n support.\n"><script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$']],
+    packages: {'[+]': ['ams']}
+  },
+  options: {skipHtmlTags: ['script','noscript','style','textarea','pre']}
+};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
     </head>
     <body class="
     article-page
@@ -528,6 +539,42 @@
         document.head.appendChild(customFont);
     }());
 </script>
+<div id="particles-js"></div>
+
+<script src="/my-homepage/background/particles.min.js"></script>
+<script>
+  particlesJS.load('particles-js', "\/my-homepage\/background\/particlesjs-config.json", function() {
+    console.log('particles.js loaded');
+  });
+</script>
+
+
+
+<style>
+  #particles-js {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+  }
+</style>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+
+<meting-js
+  server="tencent"
+  type="playlist"
+  id="9595796032"
+  fixed="true"
+  autoplay="true"
+  theme="#ad7a86">
+</meting-js>
+
 
     </body>
 </html>
