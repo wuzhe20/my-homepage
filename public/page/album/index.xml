@@ -73,7 +73,7 @@
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-homepage/test-chinese/confusion.jpg&#34;
 	width=&#34;4080&#34;
 	height=&#34;3072&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/test-chinese/confusion_hu_5d071de2d4d4dc4d.jpg 480w, http://localhost:1313/my-homepage/test-chinese/confusion_hu_454ae90c2dc1a27c.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/my-homepage/test-chinese/confusion_hu_95d981051f650488.jpg 480w, http://localhost:1313/my-homepage/test-chinese/confusion_hu_5a27bd8d2bd0ab3b.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by 摄影师小鼠,at BNU&#34;
@@ -86,7 +86,7 @@
 &gt; &lt;img src=&#34;http://localhost:1313/my-homepage/test-chinese/beautiful.jpg&#34;
 	width=&#34;4080&#34;
 	height=&#34;3072&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/test-chinese/beautiful_hu_397a2b443701cc23.jpg 480w, http://localhost:1313/my-homepage/test-chinese/beautiful_hu_ebda81756a732fc0.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/my-homepage/test-chinese/beautiful_hu_459012256806683.jpg 480w, http://localhost:1313/my-homepage/test-chinese/beautiful_hu_769e8da923b5b7aa.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
