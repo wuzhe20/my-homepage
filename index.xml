@@ -187,6 +187,10 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
 &lt;div style=&#34;display: grid; grid-template-columns: 1fr 1fr; gap: 15px;margin-bottom: 15px;&#34;&gt;
    &lt;img src=&#34;jingyuetan.jpg&#34; alt=&#34;图4&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
   &lt;img src=&#34;renyi.jpg&#34; alt=&#34;图5&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: grid; grid-template-columns: 1fr 1fr; gap: 15px;margin-bottom: 15px;&#34;&gt;
+   &lt;img src=&#34;yumi.jpg&#34; alt=&#34;图4&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
+  &lt;img src=&#34;xuri.jpg&#34; alt=&#34;图5&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
 &lt;/div&gt;</description>
         </item>
         <item>
