@@ -1,43 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>猫鼠乐园</title>
-        <link>http://localhost:1313/my-homepage/</link>
-        <description>Recent content on 猫鼠乐园</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <copyright>Example Person</copyright>
-        <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>圣诞节🎄，尝试教小鼠如何更新网站。</title>
-        <link></link>
-        <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid></guid>
-        <description></description>
-        </item>
-        <item>
-        <title>何晴女士昨日在京离世🕯️，她曾在《红楼梦》中饰演秦可卿。往往红颜薄命，天妒英才🙏。人的生命在过去看来十分平常的一天到了尽头。</title>
-        <link></link>
-        <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid></guid>
-        <description></description>
-        </item>
-        <item>
-        <title>2025年冬天的初雪❄️！这是小鼠第三次在北京看雪，也是第一次和小猫看雪。小猫不畏流感前往故宫，为小鼠送去雪中故宫图景。小鼠送给小猫一只火红的玫瑰🌹。傍晚，他们在学校里游荡，堆雪人⛄️，捏雪玫瑰，在雪地上躺卧，写写画画。这场雪成全了许多人的愿望☺️。今年是故宫建院100周年，它与人可以相守百年甚至更久，而人与人相守百年只是最美好的愿望🎋。</title>
-        <link></link>
-        <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid></guid>
-        <description></description>
-        </item>
-        <item>
-        <title>SDE</title>
-        <link>http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</link>
-        <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post SDE" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>猫鼠乐园</title><link>https://wuzhe20.github.io/my-homepage/</link><description>Recent content on 猫鼠乐园</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Example Person</copyright><lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wuzhe20.github.io/my-homepage/index.xml" rel="self" type="application/rss+xml"/><item><title>小猫和小鼠夜游什刹海</title><link/><pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate><guid/><description/></item><item><title>停更好久，小猫重拾信心，继续更新咯✌️。今天是大年初五，小猫一家去中街逛了逛🚶‍♂️，小鼠在家打牌🧠。</title><link/><pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate><guid/><description/></item><item><title>猫真暴躁啊！</title><link/><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>圣诞节🎄，尝试教小鼠如何更新网站。</title><link/><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>何晴女士昨日在京离世🕯️，她曾在《红楼梦》中饰演秦可卿。往往红颜薄命，天妒英才🙏。人的生命在过去看来十分平常的一天到了尽头。</title><link/><pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>2025年冬天的初雪❄️！这是小鼠第三次在北京看雪，也是第一次和小猫看雪。小猫不畏流感前往故宫，为小鼠送去雪中故宫图景。小鼠送给小猫一只火红的玫瑰🌹。傍晚，他们在学校里游荡，堆雪人⛄️，捏雪玫瑰，在雪地上躺卧，写写画画。这场雪成全了许多人的愿望☺️。今年是故宫建院100周年，它与人可以相守百年甚至更久，而人与人相守百年只是最美好的愿望🎋。</title><link/><pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>SDE</title><link>https://wuzhe20.github.io/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</link><pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate><guid>https://wuzhe20.github.io/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</guid><description>&lt;img src="https://wuzhe20.github.io/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post SDE" /&gt;&lt;h2 id="正文测试"&gt;正文测试
 &lt;/h2&gt;&lt;p&gt;    本文主要参考港中深的暑期班讲义和Bernt的入门级教材，本人才疏学浅，也非概率或金融方向，内容仅供参考。
 &lt;br/&gt;
     我们要研究如何求解以下形式的方程
@@ -64,16 +25,7 @@ $$ \int_{0}^{t} f(s,\omega)\, dB_s $$&lt;p&gt;
 $$ \int_{0}^{t} f(s,\omega)\, dB_s; \quad 0\leq t\leq T. $$&lt;p&gt;
 即存在一个概率空间$(\Omega,\mathcal{F},P)$上的t-连续随机过程$J_t$, 使得
 &lt;/p&gt;
-$$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&lt;/blockquote&gt;
-</description>
-        </item>
-        <item>
-        <title>圬者23</title>
-        <link>http://localhost:1313/my-homepage/p/not-test/</link>
-        <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/my-homepage/p/not-test/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/p/not-test/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 圬者23" /&gt;&lt;p&gt;    
+$$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&lt;/blockquote&gt;</description></item><item><title>圬者23</title><link>https://wuzhe20.github.io/my-homepage/p/not-test/</link><pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate><guid>https://wuzhe20.github.io/my-homepage/p/not-test/</guid><description>&lt;img src="https://wuzhe20.github.io/my-homepage/p/not-test/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 圬者23" /&gt;&lt;p&gt;    
 本科毕业之后经常担心生存的问题，我对自己以后能做什么充满疑惑。最近听到了一句英文俗语&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Jack of all trades, master of none&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
@@ -84,488 +36,334 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
 &lt;p&gt;    今年看了布图索夫导演的《海鸥》，结尾最震撼的对话借四组人物反复了四次，每一次的侧重点稍有不同。夸大的演出形式与入木三分的对白使整部作品变得完整而深刻。&lt;/p&gt;
 &lt;p&gt;    不能说自律的人是由于某种放纵，说他们是因为不能抑制某些快乐才终于抑制另一些快乐。我某种程度相信柏拉图的想法，事物的本质不会变到其反面。感觉这和“一个正义的人不会用正义造成不正义的人”是一个道理。要经常用心去感受，大脑思考。去伪存真，区分出什么是体验，什么是真正的认识。&lt;/p&gt;
 &lt;p&gt;    
-有时觉得自己很无用，因为AI可以解决很多问题，而且做得比我更好。即便如此，我的身边人也总是鼓励我多表达，讲出自己的感受。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>才过完250天纪念日💕，小鼠飞回南方一阵，小猫送至大兴机场。欣于所遇，暂得于己，怏然自足～</title>
-        <link></link>
-        <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-        
-        <guid></guid>
-        <description></description>
-        </item>
-        <item>
-        <title>小猫带小鼠来到了昌平校园，我们一起打了篮球🏀和台球🎱。小鼠教小猫“美丑对照原则”👩‍🏫，小猫为小鼠讲约会问题和Bertrand Paradox🧑‍🏫</title>
-        <link></link>
-        <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-        
-        <guid></guid>
-        <description></description>
-        </item>
-        <item>
-        <title>小鼠对小猫讲起最近李一诺的故事，这是一股在中国践行实用主义教育的民间力量。小鼠说她喜欢这种理想主义者的奋斗，即使结果与愿望出现落差仍呈现一种巨大的审美张力。与之类似的还有俄狄浦斯抗争命运的悲剧。💫</title>
-        <link></link>
-        <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-        
-        <guid></guid>
-        <description></description>
-        </item>
-        <item>
-        <title>今天小猫23岁啦～鼠鼠特意化妆来找小猫，送给猫咪一捧淡色系的鲜花和一个可爱的小蛋糕，我们又去吃了潮汕火锅～好吃！😋</title>
-        <link></link>
-        <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-        
-        <guid></guid>
-        <description></description>
-        </item>
-        <item>
-        <title>天气很好，猫鼠一起去了天坛公园，在冷冷的傍晚一起吃了顿火锅。超级幸福！🥰</title>
-        <link></link>
-        <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-        
-        <guid></guid>
-        <description></description>
-        </item>
-        <item>
-        <title>我们都熟知的杨振宁先生今日去世了，凡人的生命总有到尽头的那天🙏</title>
-        <link></link>
-        <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
-        
-        <guid></guid>
-        <description></description>
-        </item>
-        <item>
-        <title>摄影师小猫</title>
-        <link>http://localhost:1313/my-homepage/%E6%91%84%E5%BD%B1%E5%B8%88%E5%B0%8F%E7%8C%AB/</link>
-        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/my-homepage/%E6%91%84%E5%BD%B1%E5%B8%88%E5%B0%8F%E7%8C%AB/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/cat.jpg" alt="Featured image of post 摄影师小猫" /&gt;&lt;style&gt;
+有时觉得自己很无用，因为AI可以解决很多问题，而且做得比我更好。即便如此，我的身边人也总是鼓励我多表达，讲出自己的感受。&lt;/p&gt;</description></item><item><title>才过完250天纪念日💕，小鼠飞回南方一阵，小猫送至大兴机场。欣于所遇，暂得于己，怏然自足～</title><link/><pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>小猫带小鼠来到了昌平校园，我们一起打了篮球🏀和台球🎱。小鼠教小猫“美丑对照原则”👩‍🏫，小猫为小鼠讲约会问题和Bertrand Paradox🧑‍🏫</title><link/><pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>小鼠对小猫讲起最近李一诺的故事，这是一股在中国践行实用主义教育的民间力量。小鼠说她喜欢这种理想主义者的奋斗，即使结果与愿望出现落差仍呈现一种巨大的审美张力。与之类似的还有俄狄浦斯抗争命运的悲剧。💫</title><link/><pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>今天小猫23岁啦～鼠鼠特意化妆来找小猫，送给猫咪一捧淡色系的鲜花和一个可爱的小蛋糕，我们又去吃了潮汕火锅～好吃！😋</title><link/><pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>天气很好，猫鼠一起去了天坛公园，在冷冷的傍晚一起吃了顿火锅。超级幸福！🥰</title><link/><pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>我们都熟知的杨振宁先生今日去世了，凡人的生命总有到尽头的那天🙏</title><link/><pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>摄影师小猫</title><link>https://wuzhe20.github.io/my-homepage/%E6%91%84%E5%BD%B1%E5%B8%88%E5%B0%8F%E7%8C%AB/</link><pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate><guid>https://wuzhe20.github.io/my-homepage/%E6%91%84%E5%BD%B1%E5%B8%88%E5%B0%8F%E7%8C%AB/</guid><description>&lt;img src="https://wuzhe20.github.io/my-homepage/cat.jpg" alt="Featured image of post 摄影师小猫" /&gt;&lt;style&gt;
 .image-grid {
-  display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
-  gap: 15px;
-  margin-bottom: 15px;
+display: grid;
+grid-template-columns: 1fr 2fr 1fr;
+gap: 15px;
+margin-bottom: 15px;
 }
 /* 两侧图比例更“高” */
 .image-grid img:first-child,
 .image-grid img:last-child {
-  aspect-ratio: 3 / 4; /* 宽 : 高 = 3:1 → 看起来更扁长 */
+aspect-ratio: 3 / 4; /* 宽 : 高 = 3:1 → 看起来更扁长 */
 }
-
 /* 中间图保持原比例 */
 .image-grid img:nth-child(2){
-  aspect-ratio: 3 / 2;
+aspect-ratio: 3 / 2;
 }
 &lt;/style&gt;
-&lt;h2 id=&#34;图片&#34;&gt;图片
-&lt;/h2&gt;&lt;div style=&#34;display: grid; grid-template-columns: 1fr; gap: 15px;margin-bottom: 15px;&#34;&gt;
-  &lt;img src=&#34;yiheyuan.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
+&lt;h2 id="图片"&gt;图片
+&lt;/h2&gt;&lt;div style="display: grid; grid-template-columns: 1fr; gap: 15px;margin-bottom: 15px;"&gt;
+&lt;img src="yiheyuan.jpg" alt="图1" style="width: 100%; height: auto; object-fit: cover;"&gt;
 &lt;/div&gt;
-&lt;div class =&#34;image-grid&#34;&gt;
-  &lt;img src=&#34;shanghai.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
-  &lt;img src=&#34;zhuhai.jpg&#34; alt=&#34;图2&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
-  &lt;img src=&#34;ji.jpg&#34; alt=&#34;图3&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+&lt;div class ="image-grid"&gt;
+&lt;img src="shanghai.jpg" alt="图1" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;"&gt;
+&lt;img src="zhuhai.jpg" alt="图2" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;"&gt;
+&lt;img src="ji.jpg" alt="图3" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;"&gt;
 &lt;/div&gt;
-&lt;div style=&#34;display: grid; grid-template-columns: 1fr 1fr; gap: 15px;margin-bottom: 15px;&#34;&gt;
-   &lt;img src=&#34;jingyuetan.jpg&#34; alt=&#34;图4&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
-  &lt;img src=&#34;renyi.jpg&#34; alt=&#34;图5&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
-&lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>摄影师小鼠</title>
-        <link>http://localhost:1313/my-homepage/test-chinese/</link>
-        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/my-homepage/test-chinese/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/test-chinese/beautiful.jpg" alt="Featured image of post 摄影师小鼠" /&gt;&lt;h2 id=&#34;图片&#34;&gt;图片
+&lt;div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;margin-bottom: 15px;"&gt;
+&lt;img src="jingyuetan.jpg" alt="图4" style="width: 100%; height: auto; object-fit: cover;"&gt;
+&lt;img src="renyi.jpg" alt="图5" style="width: 100%; height: auto; object-fit: cover;"&gt; &lt;!-- 高度减半 --&gt;
+&lt;/div&gt;
+&lt;div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;margin-bottom: 15px;"&gt;
+&lt;img src="yumi.jpg" alt="图4" style="width: 100%; height: auto; object-fit: cover;"&gt;
+&lt;img src="xuri.jpg" alt="图5" style="width: 100%; height: auto; object-fit: cover;"&gt; &lt;!-- 高度减半 --&gt;
+&lt;/div&gt;</description></item><item><title>摄影师小鼠</title><link>https://wuzhe20.github.io/my-homepage/test-chinese/</link><pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate><guid>https://wuzhe20.github.io/my-homepage/test-chinese/</guid><description>&lt;img src="https://wuzhe20.github.io/my-homepage/test-chinese/beautiful.jpg" alt="Featured image of post 摄影师小鼠" /&gt;&lt;h2 id="图片"&gt;图片
 &lt;/h2&gt;&lt;style&gt;
 .image-grid {
-  display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
-  gap: 15px;
-  margin-bottom: 15px;
+display: grid;
+grid-template-columns: 1fr 2fr 1fr;
+gap: 15px;
+margin-bottom: 15px;
 }
 /* 两侧图比例更“高” */
 .image-grid img:first-child,
 .image-grid img:last-child {
-  aspect-ratio: 3 / 4; /* 宽 : 高 = 3:1 → 看起来更扁长 */
+aspect-ratio: 3 / 4; /* 宽 : 高 = 3:1 → 看起来更扁长 */
 }
-
 /* 中间图保持原比例 */
 .image-grid img:nth-child(2){
-  aspect-ratio: 3 / 2;
+aspect-ratio: 3 / 2;
 }
 &lt;/style&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-homepage/test-chinese/confusion.jpg&#34;
-	width=&#34;4080&#34;
-	height=&#34;3072&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/test-chinese/confusion_hu_5d071de2d4d4dc4d.jpg 480w, http://localhost:1313/my-homepage/test-chinese/confusion_hu_454ae90c2dc1a27c.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by 摄影师小鼠,at BNU&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;132&#34;
-		data-flex-basis=&#34;318px&#34;
-	
-&gt; &lt;img src=&#34;http://localhost:1313/my-homepage/test-chinese/beautiful.jpg&#34;
-	width=&#34;4080&#34;
-	height=&#34;3072&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/test-chinese/beautiful_hu_397a2b443701cc23.jpg 480w, http://localhost:1313/my-homepage/test-chinese/beautiful_hu_ebda81756a732fc0.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;132&#34;
-		data-flex-basis=&#34;318px&#34;
-	
+&lt;p&gt;&lt;img src="https://wuzhe20.github.io/my-homepage/test-chinese/confusion.jpg"
+width="4080"
+height="3072"
+srcset="https://wuzhe20.github.io/my-homepage/test-chinese/confusion_hu_5d071de2d4d4dc4d.jpg 480w, https://wuzhe20.github.io/my-homepage/test-chinese/confusion_hu_454ae90c2dc1a27c.jpg 1024w"
+loading="lazy"
+alt="Photo by 摄影师小鼠,at BNU"
+class="gallery-image"
+data-flex-grow="132"
+data-flex-basis="318px"
+&gt; &lt;img src="https://wuzhe20.github.io/my-homepage/test-chinese/beautiful.jpg"
+width="4080"
+height="3072"
+srcset="https://wuzhe20.github.io/my-homepage/test-chinese/beautiful_hu_397a2b443701cc23.jpg 480w, https://wuzhe20.github.io/my-homepage/test-chinese/beautiful_hu_ebda81756a732fc0.jpg 1024w"
+loading="lazy"
+alt="Photo by Luca Bravo on Unsplash"
+class="gallery-image"
+data-flex-grow="132"
+data-flex-basis="318px"
 &gt;&lt;/p&gt;
-&lt;div style=&#34;display: grid; grid-template-columns: 1fr 2fr 1fr; gap: 15px;margin-bottom: 15px;&#34;&gt;
-  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
-  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图2&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
-  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图3&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
-  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图4&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
-  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图5&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
-  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图6&#34; style=&#34;width: 100%; height: 150px; object-fit: cover;&#34;&gt;
+&lt;div style="display: grid; grid-template-columns: 1fr 2fr 1fr; gap: 15px;margin-bottom: 15px;"&gt;
+&lt;img src="beautiful.jpg" alt="图1" style="width: 100%; height: 150px; object-fit: cover;"&gt;
+&lt;img src="beautiful.jpg" alt="图2" style="width: 100%; height: 150px; object-fit: cover;"&gt; &lt;!-- 高度减半 --&gt;
+&lt;img src="beautiful.jpg" alt="图3" style="width: 100%; height: 150px; object-fit: cover;"&gt;
+&lt;img src="beautiful.jpg" alt="图4" style="width: 100%; height: 150px; object-fit: cover;"&gt;
+&lt;img src="beautiful.jpg" alt="图5" style="width: 100%; height: 150px; object-fit: cover;"&gt; &lt;!-- 高度减半 --&gt;
+&lt;img src="beautiful.jpg" alt="图6" style="width: 100%; height: 150px; object-fit: cover;"&gt;
 &lt;/div&gt;
-&lt;div class =&#34;image-grid&#34;&gt;
-  &lt;img src=&#34;autumn.jpg&#34; alt=&#34;图1&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
-  &lt;img src=&#34;beautiful.jpg&#34; alt=&#34;图2&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
-  &lt;img src=&#34;autumn.jpg&#34; alt=&#34;图3&#34; style=&#34;width: 100%; height: auto; object-fit: cover; border-radius: 10px;&#34;&gt;
+&lt;div class ="image-grid"&gt;
+&lt;img src="autumn.jpg" alt="图1" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;"&gt;
+&lt;img src="beautiful.jpg" alt="图2" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;"&gt;
+&lt;img src="autumn.jpg" alt="图3" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;"&gt;
 &lt;/div&gt;
-&lt;div style=&#34;display: grid; grid-template-columns: 1fr 1fr; gap: 15px;margin-bottom: 15px;&#34;&gt;
-   &lt;img src=&#34;autumn.jpg&#34; alt=&#34;图4&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
-  &lt;img src=&#34;autumn.jpg&#34; alt=&#34;图5&#34; style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt; &lt;!-- 高度减半 --&gt;
-&lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>在一起200天啦！这几天北京阴雨绵绵，小猫送给小鼠一本ΣYMΠOΣION</title>
-        <link></link>
-        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-        
-        <guid></guid>
-        <description></description>
-        </item>
-        <item>
-        <title>在东操场的看台上野餐，度过了一个美好的中秋🌕</title>
-        <link></link>
-        <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-        
-        <guid></guid>
-        <description></description>
-        </item>
-        <item>
-        <title>网站雏形搭建好啦！</title>
-        <link></link>
-        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-        
-        <guid></guid>
-        <description>&lt;p&gt;我们的网站雏形搭建好啦！&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>带鼠鼠看病，在医院得知Jane Goodall去世🕯</title>
-        <link></link>
-        <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-        
-        <guid></guid>
-        <description></description>
-        </item>
-        <item>
-        <title>今天是祖国76岁的生日，祝福祖国繁荣昌盛🇨🇳</title>
-        <link></link>
-        <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-        
-        <guid></guid>
-        <description>&lt;p&gt;今天是我们的200天纪念日！今天也是二十四节气中的霜露。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Chinese Test</title>
-        <link>http://localhost:1313/my-homepage/p/test-chinese/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/my-homepage/p/test-chinese/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+&lt;div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;margin-bottom: 15px;"&gt;
+&lt;img src="autumn.jpg" alt="图4" style="width: 100%; height: auto; object-fit: cover;"&gt;
+&lt;img src="autumn.jpg" alt="图5" style="width: 100%; height: auto; object-fit: cover;"&gt; &lt;!-- 高度减半 --&gt;
+&lt;/div&gt;</description></item><item><title>在一起200天啦！这几天北京阴雨绵绵，小猫送给小鼠一本ΣYMΠOΣION</title><link/><pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>在东操场的看台上野餐，度过了一个美好的中秋🌕</title><link/><pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>网站雏形搭建好啦！</title><link/><pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate><guid/><description>&lt;p&gt;我们的网站雏形搭建好啦！&lt;/p&gt;</description></item><item><title>带鼠鼠看病，在医院得知Jane Goodall去世🕯</title><link/><pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate><guid/><description/></item><item><title>今天是祖国76岁的生日，祝福祖国繁荣昌盛🇨🇳</title><link/><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid/><description>&lt;p&gt;今天是我们的200天纪念日！今天也是二十四节气中的霜露。&lt;/p&gt;</description></item><item><title>Chinese Test</title><link>https://wuzhe20.github.io/my-homepage/p/test-chinese/</link><pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate><guid>https://wuzhe20.github.io/my-homepage/p/test-chinese/</guid><description>&lt;img src="https://wuzhe20.github.io/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id="正文测试"&gt;正文测试
 &lt;/h2&gt;&lt;p&gt;而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。&lt;/p&gt;
 &lt;p&gt;奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。&lt;/p&gt;
-&lt;h2 id=&#34;引用&#34;&gt;引用
+&lt;h2 id="引用"&gt;引用
 &lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;思念是最暖的忧伤像一双翅膀&lt;br&gt;
 让我停不了飞不远在过往游荡&lt;br&gt;
 不告而别的你 就算为了我着想&lt;br&gt;
 这么沉痛的呵护 我怎么能翱翔&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=3aypp_YlBzI&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;最暖的憂傷 - 田馥甄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2 id=&#34;图片&#34;&gt;图片
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-homepage/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
-	width=&#34;667&#34;
-	height=&#34;1000&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e98fca2b4272416e.jpg 480w, http://localhost:1313/my-homepage/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e3d37c9ded115b12.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Florian Klauer on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;66&#34;
-		data-flex-basis=&#34;160px&#34;
-	
-&gt;  &lt;img src=&#34;http://localhost:1313/my-homepage/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;667&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg 480w, http://localhost:1313/my-homepage/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;149&#34;
-		data-flex-basis=&#34;359px&#34;
-	
+&lt;p&gt;&lt;em&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=3aypp_YlBzI" target="_blank" rel="noopener"
+&gt;最暖的憂傷 - 田馥甄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id="图片"&gt;图片
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://wuzhe20.github.io/my-homepage/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg"
+width="667"
+height="1000"
+srcset="https://wuzhe20.github.io/my-homepage/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e98fca2b4272416e.jpg 480w, https://wuzhe20.github.io/my-homepage/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e3d37c9ded115b12.jpg 1024w"
+loading="lazy"
+alt="Photo by Florian Klauer on Unsplash"
+class="gallery-image"
+data-flex-grow="66"
+data-flex-basis="160px"
+&gt; &lt;img src="https://wuzhe20.github.io/my-homepage/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg"
+width="1000"
+height="667"
+srcset="https://wuzhe20.github.io/my-homepage/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg 480w, https://wuzhe20.github.io/my-homepage/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg 1024w"
+loading="lazy"
+alt="Photo by Luca Bravo on Unsplash"
+class="gallery-image"
+data-flex-grow="149"
+data-flex-basis="359px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_503c0ebcc5245e10.jpg 480w, http://localhost:1313/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_48c98de55fb3c999.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Helena Hertz on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;  &lt;img src=&#34;http://localhost:1313/my-homepage/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
-	width=&#34;667&#34;
-	height=&#34;1000&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_f81a3588c5c4a663.jpg 480w, http://localhost:1313/my-homepage/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1c52ba2a4ad7b9a0.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;66&#34;
-		data-flex-basis=&#34;160px&#34;
-	
+&lt;p&gt;&lt;img src="https://wuzhe20.github.io/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg"
+width="1000"
+height="750"
+srcset="https://wuzhe20.github.io/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_503c0ebcc5245e10.jpg 480w, https://wuzhe20.github.io/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_48c98de55fb3c999.jpg 1024w"
+loading="lazy"
+alt="Photo by Helena Hertz on Unsplash"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt; &lt;img src="https://wuzhe20.github.io/my-homepage/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg"
+width="667"
+height="1000"
+srcset="https://wuzhe20.github.io/my-homepage/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_f81a3588c5c4a663.jpg 480w, https://wuzhe20.github.io/my-homepage/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1c52ba2a4ad7b9a0.jpg 1024w"
+loading="lazy"
+alt="Photo by Hudai Gayiran on Unsplash"
+class="gallery-image"
+data-flex-grow="66"
+data-flex-basis="160px"
 &gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Florian Klauer on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Luca Bravo on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span&gt;) 
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Helena Hertz on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Hudai Gayiran on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span&gt;)
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;![&lt;span class="nt"&gt;Photo by Florian Klauer on Unsplash&lt;/span&gt;](&lt;span class="na"&gt;florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span&gt;) ![&lt;span class="nt"&gt;Photo by Luca Bravo on Unsplash&lt;/span&gt;](&lt;span class="na"&gt;luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;![&lt;span class="nt"&gt;Photo by Helena Hertz on Unsplash&lt;/span&gt;](&lt;span class="na"&gt;helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span&gt;) ![&lt;span class="nt"&gt;Photo by Hudai Gayiran on Unsplash&lt;/span&gt;](&lt;span class="na"&gt;hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span&gt;)
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Typlog&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>归档</title>
-        <link>http://localhost:1313/my-homepage/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/my-homepage/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Markdown Syntax Guide</title>
-        <link>http://localhost:1313/my-homepage/p/markdown-syntax-guide/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/my-homepage/p/markdown-syntax-guide/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
-&lt;h2 id=&#34;headings&#34;&gt;Headings
+&lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class="link" href="https://typlog.com/" target="_blank" rel="noopener"
+&gt;Typlog&lt;/a&gt;&lt;/p&gt;</description></item><item><title>归档</title><link>https://wuzhe20.github.io/my-homepage/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://wuzhe20.github.io/my-homepage/archives/</guid><description/></item><item><title>Markdown Syntax Guide</title><link>https://wuzhe20.github.io/my-homepage/p/markdown-syntax-guide/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://wuzhe20.github.io/my-homepage/p/markdown-syntax-guide/</guid><description>&lt;img src="https://wuzhe20.github.io/my-homepage/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+&lt;h2 id="headings"&gt;Headings
 &lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
-&lt;h1 id=&#34;h1&#34;&gt;H1
-&lt;/h1&gt;&lt;h2 id=&#34;h2&#34;&gt;H2
-&lt;/h2&gt;&lt;h3 id=&#34;h3&#34;&gt;H3
-&lt;/h3&gt;&lt;h4 id=&#34;h4&#34;&gt;H4
-&lt;/h4&gt;&lt;h5 id=&#34;h5&#34;&gt;H5
-&lt;/h5&gt;&lt;h6 id=&#34;h6&#34;&gt;H6
-&lt;/h6&gt;&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph
+&lt;h1 id="h1"&gt;H1
+&lt;/h1&gt;&lt;h2 id="h2"&gt;H2
+&lt;/h2&gt;&lt;h3 id="h3"&gt;H3
+&lt;/h3&gt;&lt;h4 id="h4"&gt;H4
+&lt;/h4&gt;&lt;h5 id="h5"&gt;H5
+&lt;/h5&gt;&lt;h6 id="h6"&gt;H6
+&lt;/h6&gt;&lt;h2 id="paragraph"&gt;Paragraph
 &lt;/h2&gt;&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;
 &lt;p&gt;Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p&gt;
-&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes
+&lt;h2 id="blockquotes"&gt;Blockquotes
 &lt;/h2&gt;&lt;p&gt;The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code&gt;footer&lt;/code&gt; or &lt;code&gt;cite&lt;/code&gt; element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p&gt;
-&lt;h4 id=&#34;blockquote-without-attribution&#34;&gt;Blockquote without attribution
+&lt;h4 id="blockquote-without-attribution"&gt;Blockquote without attribution
 &lt;/h4&gt;&lt;blockquote&gt;
 &lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
 &lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h4 id=&#34;blockquote-with-attribution&#34;&gt;Blockquote with attribution
+&lt;h4 id="blockquote-with-attribution"&gt;Blockquote with attribution
 &lt;/h4&gt;&lt;blockquote&gt;
 &lt;p&gt;Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;br&gt;
-— &lt;cite&gt;Rob Pike&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2 id=&#34;tables&#34;&gt;Tables
+— &lt;cite&gt;Rob Pike&lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id="tables"&gt;Tables
 &lt;/h2&gt;&lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Name&lt;/th&gt;
-          &lt;th&gt;Age&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Bob&lt;/td&gt;
-          &lt;td&gt;27&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Alice&lt;/td&gt;
-          &lt;td&gt;23&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Age&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Bob&lt;/td&gt;
+&lt;td&gt;27&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alice&lt;/td&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h4 id=&#34;inline-markdown-within-tables&#34;&gt;Inline Markdown within tables
+&lt;h4 id="inline-markdown-within-tables"&gt;Inline Markdown within tables
 &lt;/h4&gt;&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Italics&lt;/th&gt;
-          &lt;th&gt;Bold&lt;/th&gt;
-          &lt;th&gt;Code&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Italics&lt;/th&gt;
+&lt;th&gt;Bold&lt;/th&gt;
+&lt;th&gt;Code&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;A&lt;/th&gt;
-          &lt;th&gt;B&lt;/th&gt;
-          &lt;th&gt;C&lt;/th&gt;
-          &lt;th&gt;D&lt;/th&gt;
-          &lt;th&gt;E&lt;/th&gt;
-          &lt;th&gt;F&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/td&gt;
-          &lt;td&gt;Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex.&lt;/td&gt;
-          &lt;td&gt;Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus&lt;/td&gt;
-          &lt;td&gt;Proin sit amet velit nec enim imperdiet vehicula.&lt;/td&gt;
-          &lt;td&gt;Ut bibendum vestibulum quam, eu egestas turpis gravida nec&lt;/td&gt;
-          &lt;td&gt;Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;A&lt;/th&gt;
+&lt;th&gt;B&lt;/th&gt;
+&lt;th&gt;C&lt;/th&gt;
+&lt;th&gt;D&lt;/th&gt;
+&lt;th&gt;E&lt;/th&gt;
+&lt;th&gt;F&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/td&gt;
+&lt;td&gt;Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex.&lt;/td&gt;
+&lt;td&gt;Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus&lt;/td&gt;
+&lt;td&gt;Proin sit amet velit nec enim imperdiet vehicula.&lt;/td&gt;
+&lt;td&gt;Ut bibendum vestibulum quam, eu egestas turpis gravida nec&lt;/td&gt;
+&lt;td&gt;Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;code-blocks&#34;&gt;Code Blocks
-&lt;/h2&gt;&lt;h4 id=&#34;code-block-with-backticks&#34;&gt;Code block with backticks
-&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;h2 id="code-blocks"&gt;Code Blocks
+&lt;/h2&gt;&lt;h4 id="code-block-with-backticks"&gt;Code block with backticks
+&lt;/h4&gt;&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-html" data-lang="html"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="cp"&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;html&lt;/span&gt; &lt;span class="na"&gt;lang&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;head&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;meta&lt;/span&gt; &lt;span class="na"&gt;charset&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;head&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;body&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;p&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;Test&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;p&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;body&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;html&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h4 id=&#34;code-block-indented-with-four-spaces&#34;&gt;Code block indented with four spaces
+&lt;/div&gt;&lt;h4 id="code-block-indented-with-four-spaces"&gt;Code block indented with four spaces
 &lt;/h4&gt;&lt;pre&gt;&lt;code&gt;&amp;lt;!doctype html&amp;gt;
 &amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
 &amp;lt;head&amp;gt;
-  &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
-  &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
+&amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
+&amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
 &amp;lt;/head&amp;gt;
 &amp;lt;body&amp;gt;
-  &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
 &amp;lt;/body&amp;gt;
 &amp;lt;/html&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h4 id=&#34;code-block-with-hugos-internal-highlight-shortcode&#34;&gt;Code block with Hugo&amp;rsquo;s internal highlight shortcode
-&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;h4 id="code-block-with-hugos-internal-highlight-shortcode"&gt;Code block with Hugo&amp;rsquo;s internal highlight shortcode
+&lt;/h4&gt;&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-html" data-lang="html"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="cp"&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;html&lt;/span&gt; &lt;span class="na"&gt;lang&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;head&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;meta&lt;/span&gt; &lt;span class="na"&gt;charset&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;head&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;body&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;p&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;Test&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;p&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;body&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;html&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h4 id=&#34;diff-code-block&#34;&gt;Diff code block
-&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;h4 id="diff-code-block"&gt;Diff code block
+&lt;/h4&gt;&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[dependencies.bevy]
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git = &amp;#34;https://github.com/bevyengine/bevy&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rev = &amp;#34;11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;- features = [&amp;#34;dynamic&amp;#34;]
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gi&#34;&gt;+ features = [&amp;#34;jpeg&amp;#34;, &amp;#34;dynamic&amp;#34;]
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-diff" data-lang="diff"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;[dependencies.bevy]
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;git = &amp;#34;https://github.com/bevyengine/bevy&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;rev = &amp;#34;11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="gd"&gt;- features = [&amp;#34;dynamic&amp;#34;]
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="gd"&gt;&lt;/span&gt;&lt;span class="gi"&gt;+ features = [&amp;#34;jpeg&amp;#34;, &amp;#34;dynamic&amp;#34;]
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h2 id=&#34;list-types&#34;&gt;List Types
-&lt;/h2&gt;&lt;h4 id=&#34;ordered-list&#34;&gt;Ordered List
+&lt;/div&gt;&lt;h2 id="list-types"&gt;List Types
+&lt;/h2&gt;&lt;h4 id="ordered-list"&gt;Ordered List
 &lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;First item&lt;/li&gt;
 &lt;li&gt;Second item&lt;/li&gt;
 &lt;li&gt;Third item&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4 id=&#34;unordered-list&#34;&gt;Unordered List
+&lt;h4 id="unordered-list"&gt;Unordered List
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;List item&lt;/li&gt;
 &lt;li&gt;Another item&lt;/li&gt;
 &lt;li&gt;And another item&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;nested-list&#34;&gt;Nested list
+&lt;h4 id="nested-list"&gt;Nested list
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;Fruit
 &lt;ul&gt;
@@ -581,41 +379,27 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;other-elements--abbr-sub-sup-kbd-mark&#34;&gt;Other Elements — abbr, sub, sup, kbd, mark
-&lt;/h2&gt;&lt;p&gt;&lt;abbr title=&#34;Graphics Interchange Format&#34;&gt;GIF&lt;/abbr&gt; is a bitmap image format.&lt;/p&gt;
+&lt;h2 id="other-elements--abbr-sub-sup-kbd-mark"&gt;Other Elements — abbr, sub, sup, kbd, mark
+&lt;/h2&gt;&lt;p&gt;&lt;abbr title="Graphics Interchange Format"&gt;GIF&lt;/abbr&gt; is a bitmap image format.&lt;/p&gt;
 &lt;p&gt;H&lt;sub&gt;2&lt;/sub&gt;O&lt;/p&gt;
 &lt;p&gt;X&lt;sup&gt;n&lt;/sup&gt; + Y&lt;sup&gt;n&lt;/sup&gt; = Z&lt;sup&gt;n&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&gt; + &lt;kbd&gt;ALT&lt;/kbd&gt; + &lt;kbd&gt;Delete&lt;/kbd&gt; to end the session.&lt;/p&gt;
 &lt;p&gt;Most &lt;mark&gt;salamanders&lt;/mark&gt; are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p&gt;
-&lt;h2 id=&#34;hyperlinked-image&#34;&gt;Hyperlinked image
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://google.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;img src=&#34;https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Google&#34;
-	
-	
+&lt;h2 id="hyperlinked-image"&gt;Hyperlinked image
+&lt;/h2&gt;&lt;p&gt;&lt;a class="link" href="https://google.com" target="_blank" rel="noopener"
+&gt;&lt;img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png"
+loading="lazy"
+alt="Google"
 &gt;&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class="footnotes" role="doc-endnotes"&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;talk&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a class="link" href="https://www.youtube.com/watch?v=PAAkCSZUG1c" target="_blank" rel="noopener"
+&gt;talk&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink"&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>Placeholder Text</title>
-        <link>http://localhost:1313/my-homepage/p/placeholder-text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/my-homepage/p/placeholder-text/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
+&lt;/div&gt;</description></item><item><title>Placeholder Text</title><link>https://wuzhe20.github.io/my-homepage/p/placeholder-text/</link><pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><guid>https://wuzhe20.github.io/my-homepage/p/placeholder-text/</guid><description>&lt;img src="https://wuzhe20.github.io/my-homepage/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
 &lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
@@ -631,140 +415,93 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
 &lt;li&gt;Arcanaque montibus omnes&lt;/li&gt;
 &lt;li&gt;Quidem et&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id=&#34;vagus-elidunt&#34;&gt;Vagus elidunt
-&lt;/h1&gt;&lt;p&gt;&lt;svg class=&#34;canon&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; overflow=&#34;visible&#34; viewBox=&#34;0 0 496 373&#34; height=&#34;373&#34; width=&#34;496&#34;&gt;&lt;g fill=&#34;none&#34;&gt;&lt;path stroke=&#34;#000&#34; stroke-width=&#34;.75&#34; d=&#34;M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515&#34;&gt;&lt;/path&gt;&lt;path stroke=&#34;#ED1C24&#34; stroke-width=&#34;.75&#34; d=&#34;M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z&#34;&gt;&lt;/path&gt;&lt;path stroke=&#34;#000&#34; stroke-width=&#34;.75&#34; d=&#34;M.479.375h495v372h-495zM247.979.875v372&#34;&gt;&lt;/path&gt;&lt;ellipse cx=&#34;498.729&#34; cy=&#34;177.625&#34; rx=&#34;.75&#34; ry=&#34;1.25&#34;&gt;&lt;/ellipse&gt;&lt;ellipse cx=&#34;247.229&#34; cy=&#34;377.375&#34; rx=&#34;.75&#34; ry=&#34;1.25&#34;&gt;&lt;/ellipse&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;The Van de Graaf Canon&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;mane-refeci-capiebant-unda-mulcebat&#34;&gt;Mane refeci capiebant unda mulcebat
+&lt;h1 id="vagus-elidunt"&gt;Vagus elidunt
+&lt;/h1&gt;&lt;p&gt;&lt;svg class="canon" xmlns="http://www.w3.org/2000/svg" overflow="visible" viewBox="0 0 496 373" height="373" width="496"&gt;&lt;g fill="none"&gt;&lt;path stroke="#000" stroke-width=".75" d="M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515"&gt;&lt;/path&gt;&lt;path stroke="#ED1C24" stroke-width=".75" d="M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z"&gt;&lt;/path&gt;&lt;path stroke="#000" stroke-width=".75" d="M.479.375h495v372h-495zM247.979.875v372"&gt;&lt;/path&gt;&lt;ellipse cx="498.729" cy="177.625" rx=".75" ry="1.25"&gt;&lt;/ellipse&gt;&lt;ellipse cx="247.229" cy="377.375" rx=".75" ry="1.25"&gt;&lt;/ellipse&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon" target="_blank" rel="noopener"
+&gt;The Van de Graaf Canon&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="mane-refeci-capiebant-unda-mulcebat"&gt;Mane refeci capiebant unda mulcebat
 &lt;/h2&gt;&lt;p&gt;Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong&gt;Faces illo pepulere&lt;/strong&gt; tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p&gt;
 &lt;p&gt;Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.&lt;/p&gt;
-&lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong&gt;mitis temploque&lt;/strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;/em&gt; non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong&gt;parte&lt;/strong&gt;.&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Math Typesetting</title>
-        <link>http://localhost:1313/my-homepage/p/math-typesetting/</link>
-        <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/my-homepage/p/math-typesetting/</guid>
-        <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
-&lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;KaTeX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong&gt;mitis temploque&lt;/strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;/em&gt; non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong&gt;parte&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Math Typesetting</title><link>https://wuzhe20.github.io/my-homepage/p/math-typesetting/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://wuzhe20.github.io/my-homepage/p/math-typesetting/</guid><description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
+&lt;p&gt;In this example we will be using &lt;a class="link" href="https://katex.org/" target="_blank" rel="noopener"
+&gt;KaTeX&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Create a partial under &lt;code&gt;/layouts/partials/math.html&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Within this partial reference the &lt;a class=&#34;link&#34; href=&#34;https://katex.org/docs/autorender.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Auto-render Extension&lt;/a&gt; or host these scripts locally.&lt;/li&gt;
+&lt;li&gt;Within this partial reference the &lt;a class="link" href="https://katex.org/docs/autorender.html" target="_blank" rel="noopener"
+&gt;Auto-render Extension&lt;/a&gt; or host these scripts locally.&lt;/li&gt;
 &lt;li&gt;Include the partial in your templates like so:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; or .Params.math .Site.Params.math &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; partial &lt;span class=&#34;s2&#34;&gt;&amp;#34;math.html&amp;#34;&lt;/span&gt; . &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; end &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;{{&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; or .Params.math .Site.Params.math &lt;span class="o"&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;{{&lt;/span&gt; partial &lt;span class="s2"&gt;&amp;#34;math.html&amp;#34;&lt;/span&gt; . &lt;span class="o"&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;{{&lt;/span&gt; end &lt;span class="o"&gt;}}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;To enable KaTeX globally set the parameter &lt;code&gt;math&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in a project&amp;rsquo;s configuration&lt;/li&gt;
 &lt;li&gt;To enable KaTeX on a per page basis include the parameter &lt;code&gt;math: true&lt;/code&gt; in content files&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Use the online reference of &lt;a class=&#34;link&#34; href=&#34;https://katex.org/docs/supported.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Supported TeX Functions&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;examples&#34;&gt;Examples
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Use the online reference of &lt;a class="link" href="https://katex.org/docs/supported.html" target="_blank" rel="noopener"
+&gt;Supported TeX Functions&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="examples"&gt;Examples
 &lt;/h3&gt;&lt;p&gt;Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p&gt;
 &lt;p&gt;Block math:
 &lt;/p&gt;
 $$
- \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
-$$</description>
-        </item>
-        <item>
-        <title>Emoji Support</title>
-        <link>http://localhost:1313/my-homepage/p/emoji-support/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/my-homepage/p/emoji-support/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/getting-started/configuration/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt; &lt;code&gt;:see_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙉&lt;/span&gt; &lt;code&gt;:hear_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙊&lt;/span&gt; &lt;code&gt;:speak_no_evil:&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$</description></item><item><title>Emoji Support</title><link>https://wuzhe20.github.io/my-homepage/p/emoji-support/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>https://wuzhe20.github.io/my-homepage/p/emoji-support/</guid><description>&lt;img src="https://wuzhe20.github.io/my-homepage/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+&lt;p&gt;The &lt;a class="link" href="https://gohugo.io/functions/emojify/" target="_blank" rel="noopener"
+&gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class="link" href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes" target="_blank" rel="noopener"
+&gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site&amp;rsquo;s &lt;a class="link" href="https://gohugo.io/getting-started/configuration/" target="_blank" rel="noopener"
+&gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;
+&lt;p&gt;&lt;span class="nowrap"&gt;&lt;span class="emojify"&gt;🙈&lt;/span&gt; &lt;code&gt;:see_no_evil:&lt;/code&gt;&lt;/span&gt; &lt;span class="nowrap"&gt;&lt;span class="emojify"&gt;🙉&lt;/span&gt; &lt;code&gt;:hear_no_evil:&lt;/code&gt;&lt;/span&gt; &lt;span class="nowrap"&gt;&lt;span class="emojify"&gt;🙊&lt;/span&gt; &lt;code&gt;:speak_no_evil:&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;br&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;http://www.emoji-cheat-sheet.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;
+&lt;p&gt;The &lt;a class="link" href="http://www.emoji-cheat-sheet.com/" target="_blank" rel="noopener"
+&gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;N.B.&lt;/strong&gt; The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;.emoji {
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-html" data-lang="html"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;.emoji {
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>http://localhost:1313/my-homepage/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/my-homepage/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>搜索</title>
-        <link>http://localhost:1313/my-homepage/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/my-homepage/search/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>友情链接</title>
-        <link>http://localhost:1313/my-homepage/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/my-homepage/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;/div&gt;</description></item><item><title>关于</title><link>https://wuzhe20.github.io/my-homepage/%E5%85%B3%E4%BA%8E/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wuzhe20.github.io/my-homepage/%E5%85%B3%E4%BA%8E/</guid><description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;</description></item><item><title>搜索</title><link>https://wuzhe20.github.io/my-homepage/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wuzhe20.github.io/my-homepage/search/</guid><description/></item><item><title>友情链接</title><link>https://wuzhe20.github.io/my-homepage/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wuzhe20.github.io/my-homepage/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid><description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;links&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;- &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;GitHub&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;description&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;website&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://github.com&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;image&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;- &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;TypeScript&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;description&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;website&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;image&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class="w"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;</description></item></channel></rss>
