@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>猫鼠乐园</title>
-        <link>http://localhost:1313/my-homepage/</link>
+        <link>https://wuzhe20.github.io/my-homepage/</link>
         <description>Recent content on 猫鼠乐园</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wuzhe20.github.io/my-homepage/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>小猫在前主楼三楼等小鼠答辩结束～🧑‍💻，送给她的花的名字叫【静谧森林】。</title>
         <link></link>
         <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
@@ -65,11 +65,11 @@
         </item>
         <item>
         <title>SDE</title>
-        <link>http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</link>
+        <link>https://wuzhe20.github.io/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</link>
         <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post SDE" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+        <guid>https://wuzhe20.github.io/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</guid>
+        <description>&lt;img src="https://wuzhe20.github.io/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post SDE" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
 &lt;/h2&gt;&lt;p&gt;    本文主要参考港中深的暑期班讲义和Bernt的入门级教材，本人才疏学浅，也非概率或金融方向，内容仅供参考。
 &lt;br/&gt;
     我们要研究如何求解以下形式的方程
@@ -101,11 +101,11 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
         </item>
         <item>
         <title>圬者23</title>
-        <link>http://localhost:1313/my-homepage/p/not-test/</link>
+        <link>https://wuzhe20.github.io/my-homepage/p/not-test/</link>
         <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/my-homepage/p/not-test/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/p/not-test/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 圬者23" /&gt;&lt;p&gt;    
+        <guid>https://wuzhe20.github.io/my-homepage/p/not-test/</guid>
+        <description>&lt;img src="https://wuzhe20.github.io/my-homepage/p/not-test/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 圬者23" /&gt;&lt;p&gt;    
 本科毕业之后经常担心生存的问题，我对自己以后能做什么充满疑惑。最近听到了一句英文俗语&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Jack of all trades, master of none&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
@@ -169,11 +169,11 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
         </item>
         <item>
         <title>摄影师小猫</title>
-        <link>http://localhost:1313/my-homepage/%E6%91%84%E5%BD%B1%E5%B8%88%E5%B0%8F%E7%8C%AB/</link>
+        <link>https://wuzhe20.github.io/my-homepage/%E6%91%84%E5%BD%B1%E5%B8%88%E5%B0%8F%E7%8C%AB/</link>
         <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/my-homepage/%E6%91%84%E5%BD%B1%E5%B8%88%E5%B0%8F%E7%8C%AB/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/cat.jpg" alt="Featured image of post 摄影师小猫" /&gt;&lt;style&gt;
+        <guid>https://wuzhe20.github.io/my-homepage/%E6%91%84%E5%BD%B1%E5%B8%88%E5%B0%8F%E7%8C%AB/</guid>
+        <description>&lt;img src="https://wuzhe20.github.io/my-homepage/cat.jpg" alt="Featured image of post 摄影师小猫" /&gt;&lt;style&gt;
 .image-grid {
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
@@ -211,11 +211,11 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
         </item>
         <item>
         <title>摄影师小鼠</title>
-        <link>http://localhost:1313/my-homepage/test-chinese/</link>
+        <link>https://wuzhe20.github.io/my-homepage/test-chinese/</link>
         <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/my-homepage/test-chinese/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/test-chinese/beautiful.jpg" alt="Featured image of post 摄影师小鼠" /&gt;&lt;h2 id=&#34;图片&#34;&gt;图片
+        <guid>https://wuzhe20.github.io/my-homepage/test-chinese/</guid>
+        <description>&lt;img src="https://wuzhe20.github.io/my-homepage/test-chinese/beautiful.jpg" alt="Featured image of post 摄影师小鼠" /&gt;&lt;h2 id=&#34;图片&#34;&gt;图片
 &lt;/h2&gt;&lt;style&gt;
 .image-grid {
   display: grid;
@@ -234,10 +234,10 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
   aspect-ratio: 3 / 2;
 }
 &lt;/style&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-homepage/test-chinese/confusion.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://wuzhe20.github.io/my-homepage/test-chinese/confusion.jpg&#34;
 	width=&#34;4080&#34;
 	height=&#34;3072&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/test-chinese/confusion_hu_5d071de2d4d4dc4d.jpg 480w, http://localhost:1313/my-homepage/test-chinese/confusion_hu_454ae90c2dc1a27c.jpg 1024w&#34;
+	srcset=&#34;https://wuzhe20.github.io/my-homepage/test-chinese/confusion_hu_5d071de2d4d4dc4d.jpg 480w, https://wuzhe20.github.io/my-homepage/test-chinese/confusion_hu_454ae90c2dc1a27c.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by 摄影师小鼠,at BNU&#34;
@@ -247,10 +247,10 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
 		data-flex-grow=&#34;132&#34;
 		data-flex-basis=&#34;318px&#34;
 	
-&gt; &lt;img src=&#34;http://localhost:1313/my-homepage/test-chinese/beautiful.jpg&#34;
+&gt; &lt;img src=&#34;https://wuzhe20.github.io/my-homepage/test-chinese/beautiful.jpg&#34;
 	width=&#34;4080&#34;
 	height=&#34;3072&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/test-chinese/beautiful_hu_397a2b443701cc23.jpg 480w, http://localhost:1313/my-homepage/test-chinese/beautiful_hu_ebda81756a732fc0.jpg 1024w&#34;
+	srcset=&#34;https://wuzhe20.github.io/my-homepage/test-chinese/beautiful_hu_397a2b443701cc23.jpg 480w, https://wuzhe20.github.io/my-homepage/test-chinese/beautiful_hu_ebda81756a732fc0.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
@@ -323,11 +323,11 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
         </item>
         <item>
         <title>Chinese Test</title>
-        <link>http://localhost:1313/my-homepage/p/test-chinese/</link>
+        <link>https://wuzhe20.github.io/my-homepage/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/my-homepage/p/test-chinese/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+        <guid>https://wuzhe20.github.io/my-homepage/p/test-chinese/</guid>
+        <description>&lt;img src="https://wuzhe20.github.io/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
 &lt;/h2&gt;&lt;p&gt;而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。&lt;/p&gt;
 &lt;p&gt;奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。&lt;/p&gt;
 &lt;h2 id=&#34;引用&#34;&gt;引用
@@ -339,10 +339,10 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
 &lt;p&gt;&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=3aypp_YlBzI&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;最暖的憂傷 - 田馥甄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;图片&#34;&gt;图片
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-homepage/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://wuzhe20.github.io/my-homepage/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
 	width=&#34;667&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e98fca2b4272416e.jpg 480w, http://localhost:1313/my-homepage/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e3d37c9ded115b12.jpg 1024w&#34;
+	srcset=&#34;https://wuzhe20.github.io/my-homepage/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e98fca2b4272416e.jpg 480w, https://wuzhe20.github.io/my-homepage/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e3d37c9ded115b12.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Florian Klauer on Unsplash&#34;
@@ -352,10 +352,10 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
 		data-flex-grow=&#34;66&#34;
 		data-flex-basis=&#34;160px&#34;
 	
-&gt;  &lt;img src=&#34;http://localhost:1313/my-homepage/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
+&gt;  &lt;img src=&#34;https://wuzhe20.github.io/my-homepage/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;667&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg 480w, http://localhost:1313/my-homepage/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg 1024w&#34;
+	srcset=&#34;https://wuzhe20.github.io/my-homepage/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg 480w, https://wuzhe20.github.io/my-homepage/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
@@ -366,10 +366,10 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
 		data-flex-basis=&#34;359px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://wuzhe20.github.io/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_503c0ebcc5245e10.jpg 480w, http://localhost:1313/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_48c98de55fb3c999.jpg 1024w&#34;
+	srcset=&#34;https://wuzhe20.github.io/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_503c0ebcc5245e10.jpg 480w, https://wuzhe20.github.io/my-homepage/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_48c98de55fb3c999.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Helena Hertz on Unsplash&#34;
@@ -379,10 +379,10 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
 		data-flex-grow=&#34;133&#34;
 		data-flex-basis=&#34;320px&#34;
 	
-&gt;  &lt;img src=&#34;http://localhost:1313/my-homepage/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
+&gt;  &lt;img src=&#34;https://wuzhe20.github.io/my-homepage/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
 	width=&#34;667&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;http://localhost:1313/my-homepage/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_f81a3588c5c4a663.jpg 480w, http://localhost:1313/my-homepage/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1c52ba2a4ad7b9a0.jpg 1024w&#34;
+	srcset=&#34;https://wuzhe20.github.io/my-homepage/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_f81a3588c5c4a663.jpg 480w, https://wuzhe20.github.io/my-homepage/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1c52ba2a4ad7b9a0.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;
@@ -411,19 +411,19 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
         </item>
         <item>
         <title>归档</title>
-        <link>http://localhost:1313/my-homepage/archives/</link>
+        <link>https://wuzhe20.github.io/my-homepage/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/my-homepage/archives/</guid>
+        <guid>https://wuzhe20.github.io/my-homepage/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown Syntax Guide</title>
-        <link>http://localhost:1313/my-homepage/p/markdown-syntax-guide/</link>
+        <link>https://wuzhe20.github.io/my-homepage/p/markdown-syntax-guide/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/my-homepage/p/markdown-syntax-guide/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+        <guid>https://wuzhe20.github.io/my-homepage/p/markdown-syntax-guide/</guid>
+        <description>&lt;img src="https://wuzhe20.github.io/my-homepage/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings
 &lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
 &lt;h1 id=&#34;h1&#34;&gt;H1
@@ -647,11 +647,11 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
         </item>
         <item>
         <title>Placeholder Text</title>
-        <link>http://localhost:1313/my-homepage/p/placeholder-text/</link>
+        <link>https://wuzhe20.github.io/my-homepage/p/placeholder-text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/my-homepage/p/placeholder-text/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
+        <guid>https://wuzhe20.github.io/my-homepage/p/placeholder-text/</guid>
+        <description>&lt;img src="https://wuzhe20.github.io/my-homepage/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
 &lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
@@ -678,10 +678,10 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$&
         </item>
         <item>
         <title>Math Typesetting</title>
-        <link>http://localhost:1313/my-homepage/p/math-typesetting/</link>
+        <link>https://wuzhe20.github.io/my-homepage/p/math-typesetting/</link>
         <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/my-homepage/p/math-typesetting/</guid>
+        <guid>https://wuzhe20.github.io/my-homepage/p/math-typesetting/</guid>
         <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
 &lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;KaTeX&lt;/a&gt;&lt;/p&gt;
@@ -720,11 +720,11 @@ $$</description>
         </item>
         <item>
         <title>Emoji Support</title>
-        <link>http://localhost:1313/my-homepage/p/emoji-support/</link>
+        <link>https://wuzhe20.github.io/my-homepage/p/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/my-homepage/p/emoji-support/</guid>
-        <description>&lt;img src="http://localhost:1313/my-homepage/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+        <guid>https://wuzhe20.github.io/my-homepage/p/emoji-support/</guid>
+        <description>&lt;img src="https://wuzhe20.github.io/my-homepage/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
@@ -751,27 +751,27 @@ $$</description>
         </item>
         <item>
         <title>关于</title>
-        <link>http://localhost:1313/my-homepage/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://wuzhe20.github.io/my-homepage/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/my-homepage/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://wuzhe20.github.io/my-homepage/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>搜索</title>
-        <link>http://localhost:1313/my-homepage/search/</link>
+        <link>https://wuzhe20.github.io/my-homepage/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/my-homepage/search/</guid>
+        <guid>https://wuzhe20.github.io/my-homepage/search/</guid>
         <description></description>
         </item>
         <item>
         <title>友情链接</title>
-        <link>http://localhost:1313/my-homepage/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
+        <link>https://wuzhe20.github.io/my-homepage/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/my-homepage/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
+        <guid>https://wuzhe20.github.io/my-homepage/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
