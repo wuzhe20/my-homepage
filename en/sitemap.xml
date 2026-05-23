@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wuzhe20.github.io/my-homepage/en/categories/</loc>
+    <loc>http://localhost:1313/my-homepage/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://wuzhe20.github.io/my-homepage/categories/"
+                href="http://localhost:1313/my-homepage/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wuzhe20.github.io/my-homepage/en/categories/"
+                href="http://localhost:1313/my-homepage/en/categories/"
                 />
   </url><url>
-    <loc>https://wuzhe20.github.io/my-homepage/en/</loc>
+    <loc>http://localhost:1313/my-homepage/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://wuzhe20.github.io/my-homepage/"
+                href="http://localhost:1313/my-homepage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wuzhe20.github.io/my-homepage/en/"
+                href="http://localhost:1313/my-homepage/en/"
                 />
   </url><url>
-    <loc>https://wuzhe20.github.io/my-homepage/en/tags/</loc>
+    <loc>http://localhost:1313/my-homepage/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://wuzhe20.github.io/my-homepage/tags/"
+                href="http://localhost:1313/my-homepage/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wuzhe20.github.io/my-homepage/en/tags/"
+                href="http://localhost:1313/my-homepage/en/tags/"
                 />
   </url>
 </urlset>
