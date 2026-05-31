@@ -8,9 +8,33 @@
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
         <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>鼠的艺术熏陶</title>
+        <link>http://localhost:1313/my-homepage/categories/%E9%BC%A0%E7%9A%84%E8%89%BA%E6%9C%AF%E7%86%8F%E9%99%B6/</link>
+        <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-homepage/categories/%E9%BC%A0%E7%9A%84%E8%89%BA%E6%9C%AF%E7%86%8F%E9%99%B6/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>猫的数学学习</title>
+        <link>http://localhost:1313/my-homepage/categories/%E7%8C%AB%E7%9A%84%E6%95%B0%E5%AD%A6%E5%AD%A6%E4%B9%A0/</link>
+        <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-homepage/categories/%E7%8C%AB%E7%9A%84%E6%95%B0%E5%AD%A6%E5%AD%A6%E4%B9%A0/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>猫的自我反思</title>
+        <link>http://localhost:1313/my-homepage/categories/%E7%8C%AB%E7%9A%84%E8%87%AA%E6%88%91%E5%8F%8D%E6%80%9D/</link>
+        <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-homepage/categories/%E7%8C%AB%E7%9A%84%E8%87%AA%E6%88%91%E5%8F%8D%E6%80%9D/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Test</title>
         <link>http://localhost:1313/my-homepage/categories/test/</link>
-        <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/my-homepage/categories/test/</guid>
         <description>&lt;img src="http://localhost:1313/my-homepage/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
@@ -18,7 +42,7 @@
         <item>
         <title>测试</title>
         <link>http://localhost:1313/my-homepage/categories/%E6%B5%8B%E8%AF%95/</link>
-        <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/my-homepage/categories/%E6%B5%8B%E8%AF%95/</guid>
         <description></description>
