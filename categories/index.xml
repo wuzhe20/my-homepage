@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>鼠的牢骚</title>
+        <link>http://localhost:1313/my-homepage/categories/%E9%BC%A0%E7%9A%84%E7%89%A2%E9%AA%9A/</link>
+        <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-homepage/categories/%E9%BC%A0%E7%9A%84%E7%89%A2%E9%AA%9A/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>鼠的艺术熏陶</title>
         <link>http://localhost:1313/my-homepage/categories/%E9%BC%A0%E7%9A%84%E8%89%BA%E6%9C%AF%E7%86%8F%E9%99%B6/</link>
         <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>

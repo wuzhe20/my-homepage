@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/my-homepage/</loc>
-    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,14 +15,8 @@
                 href="http://localhost:1313/my-homepage/"
                 />
   </url><url>
-    <loc>http://localhost:1313/my-homepage/page/</loc>
-    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-homepage/page/news/</loc>
-    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/my-homepage/categories/</loc>
-    <lastmod>2026-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,7 +29,19 @@
                 />
   </url><url>
     <loc>http://localhost:1313/my-homepage/post/</loc>
-    <lastmod>2026-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-homepage/p/%E5%8C%86%E5%8C%86%E7%9A%84%E5%91%8A%E5%88%AB/</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-homepage/categories/%E9%BC%A0%E7%9A%84%E7%89%A2%E9%AA%9A/</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-homepage/page/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-homepage/page/news/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-homepage/p/%E5%8C%97%E4%BA%AC%E8%A7%82%E5%BD%B1%E8%AE%B0/</loc>
     <lastmod>2026-05-23T00:00:00+00:00</lastmod>
