@@ -2,18 +2,18 @@
 <html lang="zh-cn" dir="ltr">
     <head><script src="/my-homepage/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=my-homepage/livereload" data-no-instant defer></script><meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="这是一个副标题">
-<title>SDE</title>
+<title>PDE数值解复习</title>
 
-<link rel='canonical' href='http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/'>
+<link rel='canonical' href='http://localhost:1313/my-homepage/p/pde%E6%95%B0%E5%80%BC%E8%A7%A3/'>
 
-<link rel="stylesheet" href="/my-homepage/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="SDE">
+<link rel="stylesheet" href="/my-homepage/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="PDE数值解复习">
 <meta property='og:description' content="这是一个副标题">
-<meta property='og:url' content='http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/'>
+<meta property='og:url' content='http://localhost:1313/my-homepage/p/pde%E6%95%B0%E5%80%BC%E8%A7%A3/'>
 <meta property='og:site_name' content='猫鼠乐园'>
-<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2025-11-29T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2025-11-29T00:00:00&#43;00:00'/><meta property='og:image' content='http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/helena-hertz-wWZzXlDpMog-unsplash.jpg' />
-<meta name="twitter:title" content="SDE">
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2026-06-17T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2026-06-17T00:00:00&#43;00:00'/><meta property='og:image' content='http://localhost:1313/my-homepage/p/pde%E6%95%B0%E5%80%BC%E8%A7%A3/helena-hertz-wWZzXlDpMog-unsplash.jpg' />
+<meta name="twitter:title" content="PDE数值解复习">
 <meta name="twitter:description" content="这是一个副标题"><meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content='http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/helena-hertz-wWZzXlDpMog-unsplash.jpg' /><script>
+    <meta name="twitter:image" content='http://localhost:1313/my-homepage/p/pde%E6%95%B0%E5%80%BC%E8%A7%A3/helena-hertz-wWZzXlDpMog-unsplash.jpg' /><script>
 window.MathJax = {
   tex: {
     inlineMath: [['$','$'], ['\\(','\\)']],
@@ -344,6 +344,52 @@ window.MathJax = {
   <ol>
     <li><a href="#正文测试">正文测试</a></li>
   </ol>
+
+  <ol>
+    <li><a href="#常用网格与差分记号">常用网格与差分记号</a></li>
+    <li><a href="#椭圆型方程">椭圆型方程</a>
+      <ol>
+        <li><a href="#模型问题">模型问题</a></li>
+        <li><a href="#五点差分格式">五点差分格式</a></li>
+        <li><a href="#极值原理与比较定理">极值原理与比较定理</a></li>
+      </ol>
+    </li>
+    <li><a href="#抛物型方程">抛物型方程</a>
+      <ol>
+        <li><a href="#模型问题-1">模型问题</a></li>
+        <li><a href="#三种经典格式">三种经典格式</a></li>
+        <li><a href="#l2-稳定性fourier-方法">$L^2$ 稳定性（Fourier 方法）</a></li>
+        <li><a href="#linfty-稳定性最大值原理">$L^\infty$ 稳定性（最大值原理）</a></li>
+        <li><a href="#二维抛物方程显格式">二维抛物方程显格式</a></li>
+      </ol>
+    </li>
+    <li><a href="#对流方程">对流方程</a>
+      <ol>
+        <li><a href="#模型问题-2">模型问题</a></li>
+        <li><a href="#三种格式汇总">三种格式汇总</a></li>
+        <li><a href="#cfl-条件">CFL 条件</a></li>
+        <li><a href="#修正方程要点">修正方程要点</a></li>
+      </ol>
+    </li>
+    <li><a href="#变分问题与有限元">变分问题与有限元</a>
+      <ol>
+        <li><a href="#模型问题两点边值">模型问题（两点边值）</a></li>
+        <li><a href="#galerkin-离散与刚度矩阵">Galerkin 离散与刚度矩阵</a></li>
+        <li><a href="#重要定理">重要定理</a></li>
+      </ol>
+    </li>
+    <li><a href="#守恒律方程">守恒律方程</a>
+      <ol>
+        <li><a href="#模型问题-3">模型问题</a></li>
+        <li><a href="#rh-跳跃条件rankinehugoniot">RH 跳跃条件（Rankine&ndash;Hugoniot）</a></li>
+        <li><a href="#熵条件">熵条件</a></li>
+        <li><a href="#激波与稀疏波">激波与稀疏波</a></li>
+      </ol>
+    </li>
+    <li><a href="#著名定理速查">著名定理速查</a></li>
+    <li><a href="#易遗漏但常考的点">易遗漏但常考的点</a></li>
+    <li><a href="#例题模板">例题模板</a></li>
+  </ol>
 </nav>
         </div>
     </section>
@@ -357,13 +403,13 @@ window.MathJax = {
     <article class="has-image main-article">
     <header class="article-header">
         <div class="article-image">
-            <a href="/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/">
-                <img src="/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/helena-hertz-wWZzXlDpMog-unsplash_hu_e5aaa5f0b7bd07e9.jpg"
-                        srcset="/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/helena-hertz-wWZzXlDpMog-unsplash_hu_e5aaa5f0b7bd07e9.jpg 800w, /my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/helena-hertz-wWZzXlDpMog-unsplash_hu_c99ba9c80ceee4b3.jpg 1600w"
+            <a href="/my-homepage/p/pde%E6%95%B0%E5%80%BC%E8%A7%A3/">
+                <img src="/my-homepage/p/pde%E6%95%B0%E5%80%BC%E8%A7%A3/helena-hertz-wWZzXlDpMog-unsplash_hu_e5aaa5f0b7bd07e9.jpg"
+                        srcset="/my-homepage/p/pde%E6%95%B0%E5%80%BC%E8%A7%A3/helena-hertz-wWZzXlDpMog-unsplash_hu_e5aaa5f0b7bd07e9.jpg 800w, /my-homepage/p/pde%E6%95%B0%E5%80%BC%E8%A7%A3/helena-hertz-wWZzXlDpMog-unsplash_hu_c99ba9c80ceee4b3.jpg 1600w"
                         width="800" 
                         height="600" 
                         loading="lazy"
-                        alt="Featured image of post SDE" />
+                        alt="Featured image of post PDE数值解复习" />
                 
             </a>
         </div>
@@ -382,7 +428,7 @@ window.MathJax = {
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/">SDE</a>
+            <a href="/my-homepage/p/pde%E6%95%B0%E5%80%BC%E8%A7%A3/">PDE数值解复习</a>
         </h2>
     
         
@@ -408,7 +454,7 @@ window.MathJax = {
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">Nov 29, 2025</time>
+                <time class="article-time--published">Jun 17, 2026</time>
             </div>
         
 
@@ -423,7 +469,7 @@ window.MathJax = {
 
 
                 <time class="article-time--reading">
-                    阅读时长: 1 分钟
+                    阅读时长: 3 分钟
                 </time>
             </div>
         
@@ -439,33 +485,295 @@ window.MathJax = {
     
     
     <h2 id="正文测试">正文测试
-</h2><p>    本文主要参考港中深的暑期班讲义和Bernt的入门级教材，本人才疏学浅，也非概率或金融方向，内容仅供参考。
-<br/>
-    我们要研究如何求解以下形式的方程
+</h2><h1 id="pde-数值解期末考试复习">PDE 数值解期末考试复习
+</h1><p><strong>BNU研究生课程</strong></p>
+<hr>
+<h2 id="常用网格与差分记号">常用网格与差分记号
+</h2><div class="table-wrapper"><table>
+  <thead>
+      <tr>
+          <th>网格</th>
+          <th>$x_j=jh,; t_n=n\tau$；二维 $x_j=j h_x,; y_k=k h_y$</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>差分算子</strong></td>
+          <td>$\delta_x u_j=u_{j+1/2}-u_{j-1/2}$， $\Delta_+ u_j=u_{j+1}-u_j$， $\Delta_- u_j=u_j-u_{j-1}$</td>
+      </tr>
+      <tr>
+          <td><strong>二阶中心</strong></td>
+          <td>$\delta_x^2 u_j=u_{j+1}-2u_j+u_{j-1}$</td>
+      </tr>
+      <tr>
+          <td><strong>时间层</strong></td>
+          <td>$u_j^n\approx u(x_j,t_n)$，$u_{j,k}^n\approx u(x_j,y_k,t_n)$</td>
+      </tr>
+      <tr>
+          <td><strong>网比</strong></td>
+          <td>$r=\tau/h^2$（抛物），$\nu=c\tau/h$（对流）</td>
+      </tr>
+  </tbody>
+</table></div>
+<hr>
+<h2 id="椭圆型方程">椭圆型方程
+</h2><h3 id="模型问题">模型问题
+</h3>$$-\Delta u=-(u_{xx}+u_{yy})=f(x,y),\quad (x,y)\in\Omega; \qquad u|_{\partial\Omega}=g.$$<h3 id="五点差分格式">五点差分格式
+</h3><p>对正方形网格 $h=h_x=h_y$：
 </p>
-$$ \dfrac{dX}{dt} = b(t,X_t) + \sigma(t,X_t)\cdot B_t
-$$<p>
-其中b和$\sigma$是给定的函数。我们先考虑一维情况
-<br/>
-对于连续的鞅, 我们有如下重要的不等式(不加证明)。</p>
-<blockquote>
-<p><strong>Theorem(Doob&rsquo;s martingale inequality)</strong>
-<br/>
-如果$M_t$是一个鞅, 使得$t \rightarrow M_t$是几乎处处连续的, 则对于任意的$p\geq 1$, $T\geq 0$和所有$\lambda&gt; 0$
+$$\boxed{ 4u_{j,k}-u_{j+1,k}-u_{j-1,k}-u_{j,k+1}-u_{j,k-1}=h^2 f_{j,k} }$$<p>
+或写成：
 </p>
-$$P[\sup_{o\leq t\leq T} \lvert M_t\rvert\geq \lambda]\leq\dfrac{1}{\lambda^p}\cdot E[\lvert M_T\rvert^p]$$<p>
-我们将使用这个不等式证明, Ito积分
+$$-\frac{u_{j+1,k}-2u_{j,k}+u_{j-1,k}}{h^2} -\frac{u_{j,k+1}-2u_{j,k}+u_{j,k-1}}{h^2}=f_{j,k}.$$<div class="table-wrapper"><table>
+  <thead>
+      <tr>
+          <th>属性</th>
+          <th>内容</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>局部截断误差</strong></td>
+          <td>$R_{j,k}=O(h^2)$，当 $u\in C^4$ 时成立</td>
+      </tr>
+      <tr>
+          <td><strong>矩阵形式</strong></td>
+          <td>$AU=F$；$A$ 对称正定、稀疏五对角、不可约对角占优</td>
+      </tr>
+      <tr>
+          <td><strong>稳定性（先验估计）</strong></td>
+          <td>$|U|<em>\infty\le C|F|</em>\infty$，其中 $C$ 与 $h$ 无关</td>
+      </tr>
+      <tr>
+          <td><strong>收敛性</strong></td>
+          <td>$|u-U|_\infty=O(h^2)$，由相容+稳定+解足够光滑得到</td>
+      </tr>
+  </tbody>
+</table></div>
+<h3 id="极值原理与比较定理">极值原理与比较定理
+</h3><p><strong>离散极值原理：</strong> 若网格函数 $v$ 满足 $-\Delta_h v_{j,k}\le 0$（内点），则 $v$ 的最大值在边界达到，即
 </p>
-$$ \int_{0}^{t} f(s,\omega)\, dB_s $$<p>
-可以被选择成连续的依赖$t$.
-<strong>Theorem</strong>
-<br/>
-令$f \in \nu(0,T)$, 则存在一个关于t连续版本的积分
+$$\max_{\bar\Omega_h} v\le \max_{\partial\Omega_h} v^+.$$<p><strong>比较定理：</strong> 若 $-\Delta_h v\le -\Delta_h w$ 于内点，且 $v\le w$ 于边界，则 $v\le w$ 于全部节点。</p>
+<p><strong>常用比较函数：</strong> $\Phi(x,y)=\frac14(x^2+y^2)$，满足 $-\Delta_h\Phi\le 1$。</p>
+<hr>
+<h2 id="抛物型方程">抛物型方程
+</h2><h3 id="模型问题-1">模型问题
+</h3>$$u_t=a u_{xx},\quad a>0;\qquad u(x,0)=u_0(x),\quad u(0,t)=u(1,t)=0.$$<h3 id="三种经典格式">三种经典格式
+</h3><div class="table-wrapper"><table>
+  <thead>
+      <tr>
+          <th>格式</th>
+          <th>公式</th>
+          <th>关键性质</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>向前 Euler（显式）</strong></td>
+          <td>$u_j^{n+1}=u_j^n+r\delta_x^2 u_j^n$</td>
+          <td>相容 $O(\tau+h^2)$；<br/>$L^2$ 稳定 $\Leftrightarrow a\tau/h^2\le\frac12$；<br/>$L^\infty$ 稳定 $\Leftrightarrow a\tau/h^2\le\frac12$</td>
+      </tr>
+      <tr>
+          <td><strong>向后 Euler（隐式）</strong></td>
+          <td>$u_j^{n+1}-r\delta_x^2 u_j^{n+1}=u_j^n$</td>
+          <td>相容 $O(\tau+h^2)$；<br/>无条件 $L^2$ 稳定；<br/>无条件 $L^\infty$ 稳定</td>
+      </tr>
+      <tr>
+          <td><strong>Crank&ndash;Nicolson</strong></td>
+          <td>$u_j^{n+1}-u_j^n=\frac r2\bigl(\delta_x^2u_j^n+\delta_x^2u_j^{n+1}\bigr)$</td>
+          <td>相容 $O(\tau^2+h^2)$；<br/>无条件 $L^2$ 稳定；<br/>$L^\infty$ 稳定需 $a\tau/h^2\le 1$</td>
+      </tr>
+  </tbody>
+</table></div>
+<h3 id="l2-稳定性fourier-方法">$L^2$ 稳定性（Fourier 方法）
+</h3><p>设 $u_j^n=\rho^n e^{ij\xi h}$，则 $\rho=G(\xi)$。要求 $|G(\xi)|\le 1+O(\tau)$（von Neumann 条件），对常系数情形即 $|G|\le 1$。</p>
+<div class="table-wrapper"><table>
+  <thead>
+      <tr>
+          <th>格式</th>
+          <th>增长因子 $G(\xi)$</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>显式</strong></td>
+          <td>$G=1-4ar\sin^2\frac{\xi h}{2}$ <br/> 稳定要求 $ar\le\frac12$</td>
+      </tr>
+      <tr>
+          <td><strong>隐式</strong></td>
+          <td>$G=\dfrac1{1+4ar\sin^2(\xi h/2)}$ <br/> 恒 $</td>
+      </tr>
+      <tr>
+          <td><strong>CN</strong></td>
+          <td>$G=\dfrac{1-2ar\sin^2(\xi h/2)}{1+2ar\sin^2(\xi h/2)}$ <br/> 恒 $</td>
+      </tr>
+  </tbody>
+</table></div>
+<h3 id="linfty-稳定性最大值原理">$L^\infty$ 稳定性（最大值原理）
+</h3><p>格式 $A_h u^{n+1}=B_h u^n$ 若满足 $A_h^{-1}\ge 0$ 且行和条件，则保持最大值原理。</p>
+<ul>
+<li>显式格式当 $ar\le\frac12$ 时，系数全非负，故极值原理成立。</li>
+<li>隐式、CN 对任意 $r&gt;0$ 系数结构均保证极值原理（CN 需 $ar\le 1$ 才严格保持时间层系数非负）。</li>
+</ul>
+<h3 id="二维抛物方程显格式">二维抛物方程显格式
+</h3>$$u_{j,k}^{n+1}=u_{j,k}^n+r_x\delta_x^2u_{j,k}^n+r_y\delta_y^2u_{j,k}^n, \qquad r_x=\frac{a\tau}{h_x^2},\; r_y=\frac{a\tau}{h_y^2}.$$<p><strong>$L^2$ 与 $L^\infty$ 稳定条件：</strong>
 </p>
-$$ \int_{0}^{t} f(s,\omega)\, dB_s; \quad 0\leq t\leq T. $$<p>
-即存在一个概率空间$(\Omega,\mathcal{F},P)$上的t-连续随机过程$J_t$, 使得
+$$\boxed{r_x+r_y\le \frac12}.$$<hr>
+<h2 id="对流方程">对流方程
+</h2><h3 id="模型问题-2">模型问题
+</h3>$$u_t+c u_x=0,\qquad c>0.$$<p>
+真解 $u(x,t)=u_0(x-ct)$，特征线 $x-ct=\text{const}$。</p>
+<h3 id="三种格式汇总">三种格式汇总
+</h3><p>设 $\nu=c\tau/h$（CFL 数）。</p>
+<div class="table-wrapper"><table>
+  <thead>
+      <tr>
+          <th>格式</th>
+          <th>公式</th>
+          <th>稳定性 / 修正方程</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>迎风格式</strong></td>
+          <td>$u_j^{n+1}=u_j^n-\nu(u_j^n-u_{j-1}^n)$</td>
+          <td>稳定：$0\le\nu\le 1$；<br/>修正方程 $u_t+cu_x=\dfrac{ch}{2}(1-\nu)u_{xx}$（耗散）</td>
+      </tr>
+      <tr>
+          <td><strong>Lax&ndash;Wendroff</strong></td>
+          <td>$u_j^{n+1}=u_j^n-\frac{\nu}{2}(u_{j+1}^n-u_{j-1}^n)+\frac{\nu^2}{2}\delta_x^2u_j^n$</td>
+          <td>稳定：$</td>
+      </tr>
+      <tr>
+          <td><strong>Beam&ndash;Warming</strong></td>
+          <td>$u_j^{n+1}=u_j^n-\frac{\nu}{2}(3u_j^n-4u_{j-1}^n+u_{j-2}^n) + \frac{\nu^2}{2}(u_j^n-2u_{j-1}^n+u_{j-2}^n)$</td>
+          <td>稳定：$0\le\nu\le 2$；<br/>修正方程 $u_t+cu_x=\dfrac{ch^2}{6}(1-\nu)(2-\nu)u_{xxx}$</td>
+      </tr>
+  </tbody>
+</table></div>
+<h3 id="cfl-条件">CFL 条件
+</h3><p>数值依赖域必须包含物理依赖域：
 </p>
-$$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$</blockquote>
+$$\boxed{|c|\tau\le h} \quad\Longleftrightarrow\quad |\nu|\le 1.$$<p>
+迎风格式在 $c&gt;0$ 时要求 $0\le\nu\le 1$；BM 格式放宽到 $0\le\nu\le 2$。</p>
+<h3 id="修正方程要点">修正方程要点
+</h3><p>对 $u_t+cu_x=\alpha u_{xx}+\beta u_{xxx}+\cdots$：</p>
+<ul>
+<li>$\alpha\neq0$：格式含数值耗散，振幅衰减；</li>
+<li>$\beta\neq0$：格式含数值色散，相位变化；</li>
+<li>LW、BM 均为二阶格式；迎风格式为一阶格式。</li>
+</ul>
+<hr>
+<h2 id="变分问题与有限元">变分问题与有限元
+</h2><h3 id="模型问题两点边值">模型问题（两点边值）
+</h3>$$-u''+qu=f,\quad x\in(0,1);\qquad u(0)=u(1)=0,\quad q\ge0.$$<p>
+弱形式：求 $u\in H_0^1(0,1)$ 使
+</p>
+$$a(u,v)=(f,v),\quad \forall v\in H_0^1(0,1),$$<p>
+其中
+</p>
+$$a(u,v)=\int_0^1(u'v'+quv)\,dx,\qquad (f,v)=\int_0^1 fv\,dx.$$<h3 id="galerkin-离散与刚度矩阵">Galerkin 离散与刚度矩阵
+</h3><p>取有限维子空间 $V_h\subset H_0^1$，基 ${\varphi_j}<em>{j=1}^{N-1}$。设 $u_h=\sum</em>{j=1}^{N-1}u_j\varphi_j$，则
+</p>
+$$\sum_{j=1}^{N-1} a(\varphi_j,\varphi_i)\,u_j=(f,\varphi_i), \qquad i=1,\dots,N-1.$$<p>
+即 $KU=F$，其中
+</p>
+$$K_{ij}=a(\varphi_j,\varphi_i)=\int_0^1(\varphi_j'\varphi_i'+q\varphi_j\varphi_i)\,dx, \qquad F_i=(f,\varphi_i).$$<p><strong>线性元（均匀网格 $h$）：</strong>
+对 $\varphi_j$ 为帽子函数，刚度矩阵 $K$ 为对称三对角：
+</p>
+$$K=\frac1h\begin{pmatrix} 2 & -1 & & \\ -1& 2 & -1 & \\ & \ddots & \ddots & \ddots \\ & & -1 & 2 \end{pmatrix} +\frac{qh}6\begin{pmatrix} 4 & 1 & & \\ 1 & 4 & 1 & \\ & \ddots & \ddots & \ddots \\ & & 1 & 4 \end{pmatrix}.$$<p>
+质量矩阵 $M_{ij}=(\varphi_j,\varphi_i)=\frac h6\text{tridiag}(1,4,1)$。</p>
+<h3 id="重要定理">重要定理
+</h3><ul>
+<li><strong>Lax&ndash;Milgram 定理：</strong> 设 $a(\cdot,\cdot)$ 在 Hilbert 空间 $V$ 上连续且强制（$a(v,v)\ge\alpha|v|^2$），$F\in V&rsquo;$，则变分问题有唯一解，且 $|u|<em>V\le \alpha^{-1}|F|</em>{V&rsquo;}$。</li>
+<li><strong>Cea 引理：</strong> 若 $a$ 连续强制，$V_h\subset V$，则
+$$\boxed{\|u-u_h\|_V\le \frac{M}{\alpha}\inf_{v_h\in V_h}\|u-v_h\|_V}.$$</li>
+<li><strong>有限元误差（线性元）：</strong> $|u-u_h|<em>{H^1}\le Ch|u|</em>{H^2}$；$L^2$ 估计可用 Aubin&ndash;Nitsche 对偶技巧得到 $O(h^2)$。</li>
+</ul>
+<hr>
+<h2 id="守恒律方程">守恒律方程
+</h2><h3 id="模型问题-3">模型问题
+</h3>$$u_t+f(u)_x=0,\qquad u(x,0)=u_0(x).$$<p>
+真解沿特征线常数：$\dfrac{dx}{dt}=f&rsquo;(u)$。</p>
+<h3 id="rh-跳跃条件rankinehugoniot">RH 跳跃条件（Rankine&ndash;Hugoniot）
+</h3><p>若解在 $x=s(t)$ 有间断，$s&rsquo;(t)=s$，则
+</p>
+$$\boxed{s(u_R-u_L)=f(u_R)-f(u_L)}.$$<p>
+对 Burgers 方程 $f(u)=u^2/2$：$s=\dfrac{u_L+u_R}{2}$。</p>
+<h3 id="熵条件">熵条件
+</h3><p>对凸通量 $f&rsquo;&rsquo;(u)&gt;0$：</p>
+<ul>
+<li><strong>Oleinik 熵条件：</strong>
+$$\frac{f(u)-f(u_L)}{u-u_L}\ge s\ge \frac{f(u)-f(u_R)}{u-u_R}, \quad u\in(u_L,u_R).$$</li>
+<li><strong>Lax 几何熵条件：</strong>
+$$f'(u_L)>s>f'(u_R).$$
+即特征线必须“进入”激波：左侧波速大于激波速度，右侧波速小于激波速度。</li>
+<li><strong>物理熵不等式：</strong> 存在凸熵 $\eta$，熵通量 $\psi$，弱解满足
+$$\eta(u)_t+\psi(u)_x\le 0.$$</li>
+</ul>
+<h3 id="激波与稀疏波">激波与稀疏波
+</h3><ul>
+<li><strong>激波 (shock)：</strong> $u_L&gt;u_R$（凸通量），间断以 RH 速度传播。</li>
+<li><strong>稀疏波 (rarefaction)：</strong> $u_L&lt;u_R$，解连续自相似 $u(x,t)=\tilde u(x/t)$。</li>
+</ul>
+<hr>
+<h2 id="著名定理速查">著名定理速查
+</h2><div class="table-wrapper"><table>
+  <thead>
+      <tr>
+          <th>定理</th>
+          <th>内容</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Lax 等价定理</strong></td>
+          <td>对适定的线性初值问题，相容 + 稳定 $\Longleftrightarrow$ 收敛</td>
+      </tr>
+      <tr>
+          <td><strong>Lax&ndash;Wendroff 定理</strong></td>
+          <td>守恒型、相容的格式，其几乎处处有界的收敛子列收敛到守恒律的弱解</td>
+      </tr>
+      <tr>
+          <td><strong>Lax&ndash;Milgram 定理</strong></td>
+          <td>连续、强制双线性形式 + 有界线性泛函 $\Rightarrow$ 变分问题存在唯一解</td>
+      </tr>
+      <tr>
+          <td><strong>Cea 引理</strong></td>
+          <td>Galerkin 解误差由最佳逼近控制，常数 $M/\alpha$</td>
+      </tr>
+      <tr>
+          <td><strong>Sobolev 嵌入</strong></td>
+          <td>$H^1(\mathbb R)\hookrightarrow C^0$ 等，用于有限元解的正则性</td>
+      </tr>
+      <tr>
+          <td><strong>迹定理</strong></td>
+          <td>$H^1$ 函数在边界上的值属于 $H^{1/2}$，用于处理边值</td>
+      </tr>
+      <tr>
+          <td><strong>Gronwall 不等式</strong></td>
+          <td>能量估计中控制指数增长：$y&rsquo;(t)\le ay+b \Rightarrow y(t)\le e^{at}(y(0)+b/a)$</td>
+      </tr>
+  </tbody>
+</table></div>
+<hr>
+<h2 id="易遗漏但常考的点">易遗漏但常考的点
+</h2><ol>
+<li><strong>显式格式稳定条件必须同时满足 CFL / 抛物条件；</strong> 二维抛物显式要 $r_x+r_y\le 1/2$。</li>
+<li><strong>CN 格式无条件 $L^2$ 稳定，但不保持最大值原理；</strong> 若要 $L^\infty$ 稳定需网比限制。</li>
+<li><strong>迎风格式是耗散格式，LW 是色散格式；</strong> 修正方程中的 $u_{xx}$、$u_{xxx}$ 符号决定波形变化。</li>
+<li><strong>有限元刚度矩阵组装</strong>关键是基函数支集只在相邻单元；质量矩阵对抛物有限元方程 $M\dot U+KU=F$ 会出现。</li>
+<li><strong>守恒律弱解不唯一，</strong> 必须加熵条件选出物理解；数值格式常通过添加人工粘性或在间断处满足熵不等式来保证。</li>
+<li><strong>边界处理：</strong> 椭圆五点格式的边界节点直接代入 Dirichlet 值；Neumann 边界用虚拟节点或偏心差分。</li>
+<li><strong>收敛阶：</strong> 相容阶 + 稳定 $\Rightarrow$ 同阶收敛（Lax 等价）。</li>
+</ol>
+<hr>
+<h2 id="例题模板">例题模板
+</h2><p><strong>题型 1：</strong> 用五点格式离散 $-\Delta u=f$ 于矩形区域，写矩阵并估计误差阶 $O(h^2)$。<br/>
+<strong>题型 2：</strong> 对 $u_t=u_{xx}$，判断某格式是否 $L^2$ 稳定（Fourier 法）。<br/>
+<strong>题型 3：</strong> 写出迎风格式、LW 格式并求修正方程，说明稳定范围。<br/>
+<strong>题型 4：</strong> 给守恒律初值 $u_L,u_R$，用 RH 条件求激波速度并验证熵条件。<br/>
+<strong>题型 5：</strong> 用 Galerkin 法推导两点边值问题的线性有限元刚度矩阵。</p>
 
 </section>
 
@@ -502,23 +810,18 @@ $$ P[J_t = \int_{0}^{t}f\,dB] = 1 \quad \text{for all} \,\,\,t,0\leq t\leq T $$<
             
                 
 <article class="has-image">
-    <a href="/my-homepage/p/pde%E6%95%B0%E5%80%BC%E8%A7%A3/">
+    <a href="/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/">
         
         
             <div class="article-image">
-                <img src="/my-homepage/p/pde%E6%95%B0%E5%80%BC%E8%A7%A3/helena-hertz-wWZzXlDpMog-unsplash.46f61e8ea6a2df8fc5bf1d24a17c44a6.46f61e8ea6a2df8fc5bf1d24a17c44a6_hu_57b7cab9514860c.jpg" 
-                        width="250" 
-                        height="150" 
-                        loading="lazy"
-                        alt="Featured image of post PDE数值解复习"
-                        data-key="PDE数值解" 
-                        data-hash="md5-RvYejqai34/Fvx0koXxEpg==">
+                
+                    <img src="/my-homepage/helena-hertz-wWZzXlDpMog-unsplash.jpg" loading="lazy" data-key="随机微分方程" data-hash="/my-homepage/helena-hertz-wWZzXlDpMog-unsplash.jpg"/>
                 
             </div>
         
 
         <div class="article-details">
-            <h2 class="article-title">PDE数值解复习</h2>
+            <h2 class="article-title">SDE</h2>
         </div>
     </a>
 </article>

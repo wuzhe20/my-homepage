@@ -7,7 +7,305 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/categories/%E7%8C%AB%E7%9A%84%E6%95%B0%E5%AD%A6%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/categories/%E7%8C%AB%E7%9A%84%E6%95%B0%E5%AD%A6%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PDE数值解复习</title>
+        <link>http://localhost:1313/my-homepage/p/pde%E6%95%B0%E5%80%BC%E8%A7%A3/</link>
+        <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/my-homepage/p/pde%E6%95%B0%E5%80%BC%E8%A7%A3/</guid>
+        <description>&lt;img src="http://localhost:1313/my-homepage/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post PDE数值解复习" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+&lt;/h2&gt;&lt;h1 id=&#34;pde-数值解期末考试复习&#34;&gt;PDE 数值解期末考试复习
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;BNU研究生课程&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;常用网格与差分记号&#34;&gt;常用网格与差分记号
+&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;网格&lt;/th&gt;
+          &lt;th&gt;$x_j=jh,; t_n=n\tau$；二维 $x_j=j h_x,; y_k=k h_y$&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;差分算子&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$\delta_x u_j=u_{j+1/2}-u_{j-1/2}$， $\Delta_+ u_j=u_{j+1}-u_j$， $\Delta_- u_j=u_j-u_{j-1}$&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;二阶中心&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$\delta_x^2 u_j=u_{j+1}-2u_j+u_{j-1}$&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;时间层&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$u_j^n\approx u(x_j,t_n)$，$u_{j,k}^n\approx u(x_j,y_k,t_n)$&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;网比&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$r=\tau/h^2$（抛物），$\nu=c\tau/h$（对流）&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;椭圆型方程&#34;&gt;椭圆型方程
+&lt;/h2&gt;&lt;h3 id=&#34;模型问题&#34;&gt;模型问题
+&lt;/h3&gt;$$-\Delta u=-(u_{xx}+u_{yy})=f(x,y),\quad (x,y)\in\Omega; \qquad u|_{\partial\Omega}=g.$$&lt;h3 id=&#34;五点差分格式&#34;&gt;五点差分格式
+&lt;/h3&gt;&lt;p&gt;对正方形网格 $h=h_x=h_y$：
+&lt;/p&gt;
+$$\boxed{ 4u_{j,k}-u_{j+1,k}-u_{j-1,k}-u_{j,k+1}-u_{j,k-1}=h^2 f_{j,k} }$$&lt;p&gt;
+或写成：
+&lt;/p&gt;
+$$-\frac{u_{j+1,k}-2u_{j,k}+u_{j-1,k}}{h^2} -\frac{u_{j,k+1}-2u_{j,k}+u_{j,k-1}}{h^2}=f_{j,k}.$$&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;属性&lt;/th&gt;
+          &lt;th&gt;内容&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;局部截断误差&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$R_{j,k}=O(h^2)$，当 $u\in C^4$ 时成立&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;矩阵形式&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$AU=F$；$A$ 对称正定、稀疏五对角、不可约对角占优&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;稳定性（先验估计）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$|U|&lt;em&gt;\infty\le C|F|&lt;/em&gt;\infty$，其中 $C$ 与 $h$ 无关&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;收敛性&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$|u-U|_\infty=O(h^2)$，由相容+稳定+解足够光滑得到&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;极值原理与比较定理&#34;&gt;极值原理与比较定理
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;离散极值原理：&lt;/strong&gt; 若网格函数 $v$ 满足 $-\Delta_h v_{j,k}\le 0$（内点），则 $v$ 的最大值在边界达到，即
+&lt;/p&gt;
+$$\max_{\bar\Omega_h} v\le \max_{\partial\Omega_h} v^+.$$&lt;p&gt;&lt;strong&gt;比较定理：&lt;/strong&gt; 若 $-\Delta_h v\le -\Delta_h w$ 于内点，且 $v\le w$ 于边界，则 $v\le w$ 于全部节点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;常用比较函数：&lt;/strong&gt; $\Phi(x,y)=\frac14(x^2+y^2)$，满足 $-\Delta_h\Phi\le 1$。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;抛物型方程&#34;&gt;抛物型方程
+&lt;/h2&gt;&lt;h3 id=&#34;模型问题-1&#34;&gt;模型问题
+&lt;/h3&gt;$$u_t=a u_{xx},\quad a&gt;0;\qquad u(x,0)=u_0(x),\quad u(0,t)=u(1,t)=0.$$&lt;h3 id=&#34;三种经典格式&#34;&gt;三种经典格式
+&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;格式&lt;/th&gt;
+          &lt;th&gt;公式&lt;/th&gt;
+          &lt;th&gt;关键性质&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;向前 Euler（显式）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$u_j^{n+1}=u_j^n+r\delta_x^2 u_j^n$&lt;/td&gt;
+          &lt;td&gt;相容 $O(\tau+h^2)$；&lt;br/&gt;$L^2$ 稳定 $\Leftrightarrow a\tau/h^2\le\frac12$；&lt;br/&gt;$L^\infty$ 稳定 $\Leftrightarrow a\tau/h^2\le\frac12$&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;向后 Euler（隐式）&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$u_j^{n+1}-r\delta_x^2 u_j^{n+1}=u_j^n$&lt;/td&gt;
+          &lt;td&gt;相容 $O(\tau+h^2)$；&lt;br/&gt;无条件 $L^2$ 稳定；&lt;br/&gt;无条件 $L^\infty$ 稳定&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Crank&amp;ndash;Nicolson&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$u_j^{n+1}-u_j^n=\frac r2\bigl(\delta_x^2u_j^n+\delta_x^2u_j^{n+1}\bigr)$&lt;/td&gt;
+          &lt;td&gt;相容 $O(\tau^2+h^2)$；&lt;br/&gt;无条件 $L^2$ 稳定；&lt;br/&gt;$L^\infty$ 稳定需 $a\tau/h^2\le 1$&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;l2-稳定性fourier-方法&#34;&gt;$L^2$ 稳定性（Fourier 方法）
+&lt;/h3&gt;&lt;p&gt;设 $u_j^n=\rho^n e^{ij\xi h}$，则 $\rho=G(\xi)$。要求 $|G(\xi)|\le 1+O(\tau)$（von Neumann 条件），对常系数情形即 $|G|\le 1$。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;格式&lt;/th&gt;
+          &lt;th&gt;增长因子 $G(\xi)$&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;显式&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$G=1-4ar\sin^2\frac{\xi h}{2}$ &lt;br/&gt; 稳定要求 $ar\le\frac12$&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;隐式&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$G=\dfrac1{1+4ar\sin^2(\xi h/2)}$ &lt;br/&gt; 恒 $&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;CN&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$G=\dfrac{1-2ar\sin^2(\xi h/2)}{1+2ar\sin^2(\xi h/2)}$ &lt;br/&gt; 恒 $&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;linfty-稳定性最大值原理&#34;&gt;$L^\infty$ 稳定性（最大值原理）
+&lt;/h3&gt;&lt;p&gt;格式 $A_h u^{n+1}=B_h u^n$ 若满足 $A_h^{-1}\ge 0$ 且行和条件，则保持最大值原理。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;显式格式当 $ar\le\frac12$ 时，系数全非负，故极值原理成立。&lt;/li&gt;
+&lt;li&gt;隐式、CN 对任意 $r&amp;gt;0$ 系数结构均保证极值原理（CN 需 $ar\le 1$ 才严格保持时间层系数非负）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;二维抛物方程显格式&#34;&gt;二维抛物方程显格式
+&lt;/h3&gt;$$u_{j,k}^{n+1}=u_{j,k}^n+r_x\delta_x^2u_{j,k}^n+r_y\delta_y^2u_{j,k}^n, \qquad r_x=\frac{a\tau}{h_x^2},\; r_y=\frac{a\tau}{h_y^2}.$$&lt;p&gt;&lt;strong&gt;$L^2$ 与 $L^\infty$ 稳定条件：&lt;/strong&gt;
+&lt;/p&gt;
+$$\boxed{r_x+r_y\le \frac12}.$$&lt;hr&gt;
+&lt;h2 id=&#34;对流方程&#34;&gt;对流方程
+&lt;/h2&gt;&lt;h3 id=&#34;模型问题-2&#34;&gt;模型问题
+&lt;/h3&gt;$$u_t+c u_x=0,\qquad c&gt;0.$$&lt;p&gt;
+真解 $u(x,t)=u_0(x-ct)$，特征线 $x-ct=\text{const}$。&lt;/p&gt;
+&lt;h3 id=&#34;三种格式汇总&#34;&gt;三种格式汇总
+&lt;/h3&gt;&lt;p&gt;设 $\nu=c\tau/h$（CFL 数）。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;格式&lt;/th&gt;
+          &lt;th&gt;公式&lt;/th&gt;
+          &lt;th&gt;稳定性 / 修正方程&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;迎风格式&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$u_j^{n+1}=u_j^n-\nu(u_j^n-u_{j-1}^n)$&lt;/td&gt;
+          &lt;td&gt;稳定：$0\le\nu\le 1$；&lt;br/&gt;修正方程 $u_t+cu_x=\dfrac{ch}{2}(1-\nu)u_{xx}$（耗散）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Lax&amp;ndash;Wendroff&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$u_j^{n+1}=u_j^n-\frac{\nu}{2}(u_{j+1}^n-u_{j-1}^n)+\frac{\nu^2}{2}\delta_x^2u_j^n$&lt;/td&gt;
+          &lt;td&gt;稳定：$&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Beam&amp;ndash;Warming&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$u_j^{n+1}=u_j^n-\frac{\nu}{2}(3u_j^n-4u_{j-1}^n+u_{j-2}^n) + \frac{\nu^2}{2}(u_j^n-2u_{j-1}^n+u_{j-2}^n)$&lt;/td&gt;
+          &lt;td&gt;稳定：$0\le\nu\le 2$；&lt;br/&gt;修正方程 $u_t+cu_x=\dfrac{ch^2}{6}(1-\nu)(2-\nu)u_{xxx}$&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;cfl-条件&#34;&gt;CFL 条件
+&lt;/h3&gt;&lt;p&gt;数值依赖域必须包含物理依赖域：
+&lt;/p&gt;
+$$\boxed{|c|\tau\le h} \quad\Longleftrightarrow\quad |\nu|\le 1.$$&lt;p&gt;
+迎风格式在 $c&amp;gt;0$ 时要求 $0\le\nu\le 1$；BM 格式放宽到 $0\le\nu\le 2$。&lt;/p&gt;
+&lt;h3 id=&#34;修正方程要点&#34;&gt;修正方程要点
+&lt;/h3&gt;&lt;p&gt;对 $u_t+cu_x=\alpha u_{xx}+\beta u_{xxx}+\cdots$：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;$\alpha\neq0$：格式含数值耗散，振幅衰减；&lt;/li&gt;
+&lt;li&gt;$\beta\neq0$：格式含数值色散，相位变化；&lt;/li&gt;
+&lt;li&gt;LW、BM 均为二阶格式；迎风格式为一阶格式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;变分问题与有限元&#34;&gt;变分问题与有限元
+&lt;/h2&gt;&lt;h3 id=&#34;模型问题两点边值&#34;&gt;模型问题（两点边值）
+&lt;/h3&gt;$$-u&#39;&#39;+qu=f,\quad x\in(0,1);\qquad u(0)=u(1)=0,\quad q\ge0.$$&lt;p&gt;
+弱形式：求 $u\in H_0^1(0,1)$ 使
+&lt;/p&gt;
+$$a(u,v)=(f,v),\quad \forall v\in H_0^1(0,1),$$&lt;p&gt;
+其中
+&lt;/p&gt;
+$$a(u,v)=\int_0^1(u&#39;v&#39;+quv)\,dx,\qquad (f,v)=\int_0^1 fv\,dx.$$&lt;h3 id=&#34;galerkin-离散与刚度矩阵&#34;&gt;Galerkin 离散与刚度矩阵
+&lt;/h3&gt;&lt;p&gt;取有限维子空间 $V_h\subset H_0^1$，基 ${\varphi_j}&lt;em&gt;{j=1}^{N-1}$。设 $u_h=\sum&lt;/em&gt;{j=1}^{N-1}u_j\varphi_j$，则
+&lt;/p&gt;
+$$\sum_{j=1}^{N-1} a(\varphi_j,\varphi_i)\,u_j=(f,\varphi_i), \qquad i=1,\dots,N-1.$$&lt;p&gt;
+即 $KU=F$，其中
+&lt;/p&gt;
+$$K_{ij}=a(\varphi_j,\varphi_i)=\int_0^1(\varphi_j&#39;\varphi_i&#39;+q\varphi_j\varphi_i)\,dx, \qquad F_i=(f,\varphi_i).$$&lt;p&gt;&lt;strong&gt;线性元（均匀网格 $h$）：&lt;/strong&gt;
+对 $\varphi_j$ 为帽子函数，刚度矩阵 $K$ 为对称三对角：
+&lt;/p&gt;
+$$K=\frac1h\begin{pmatrix} 2 &amp; -1 &amp; &amp; \\ -1&amp; 2 &amp; -1 &amp; \\ &amp; \ddots &amp; \ddots &amp; \ddots \\ &amp; &amp; -1 &amp; 2 \end{pmatrix} +\frac{qh}6\begin{pmatrix} 4 &amp; 1 &amp; &amp; \\ 1 &amp; 4 &amp; 1 &amp; \\ &amp; \ddots &amp; \ddots &amp; \ddots \\ &amp; &amp; 1 &amp; 4 \end{pmatrix}.$$&lt;p&gt;
+质量矩阵 $M_{ij}=(\varphi_j,\varphi_i)=\frac h6\text{tridiag}(1,4,1)$。&lt;/p&gt;
+&lt;h3 id=&#34;重要定理&#34;&gt;重要定理
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lax&amp;ndash;Milgram 定理：&lt;/strong&gt; 设 $a(\cdot,\cdot)$ 在 Hilbert 空间 $V$ 上连续且强制（$a(v,v)\ge\alpha|v|^2$），$F\in V&amp;rsquo;$，则变分问题有唯一解，且 $|u|&lt;em&gt;V\le \alpha^{-1}|F|&lt;/em&gt;{V&amp;rsquo;}$。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cea 引理：&lt;/strong&gt; 若 $a$ 连续强制，$V_h\subset V$，则
+$$\boxed{\|u-u_h\|_V\le \frac{M}{\alpha}\inf_{v_h\in V_h}\|u-v_h\|_V}.$$&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;有限元误差（线性元）：&lt;/strong&gt; $|u-u_h|&lt;em&gt;{H^1}\le Ch|u|&lt;/em&gt;{H^2}$；$L^2$ 估计可用 Aubin&amp;ndash;Nitsche 对偶技巧得到 $O(h^2)$。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;守恒律方程&#34;&gt;守恒律方程
+&lt;/h2&gt;&lt;h3 id=&#34;模型问题-3&#34;&gt;模型问题
+&lt;/h3&gt;$$u_t+f(u)_x=0,\qquad u(x,0)=u_0(x).$$&lt;p&gt;
+真解沿特征线常数：$\dfrac{dx}{dt}=f&amp;rsquo;(u)$。&lt;/p&gt;
+&lt;h3 id=&#34;rh-跳跃条件rankinehugoniot&#34;&gt;RH 跳跃条件（Rankine&amp;ndash;Hugoniot）
+&lt;/h3&gt;&lt;p&gt;若解在 $x=s(t)$ 有间断，$s&amp;rsquo;(t)=s$，则
+&lt;/p&gt;
+$$\boxed{s(u_R-u_L)=f(u_R)-f(u_L)}.$$&lt;p&gt;
+对 Burgers 方程 $f(u)=u^2/2$：$s=\dfrac{u_L+u_R}{2}$。&lt;/p&gt;
+&lt;h3 id=&#34;熵条件&#34;&gt;熵条件
+&lt;/h3&gt;&lt;p&gt;对凸通量 $f&amp;rsquo;&amp;rsquo;(u)&amp;gt;0$：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Oleinik 熵条件：&lt;/strong&gt;
+$$\frac{f(u)-f(u_L)}{u-u_L}\ge s\ge \frac{f(u)-f(u_R)}{u-u_R}, \quad u\in(u_L,u_R).$$&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lax 几何熵条件：&lt;/strong&gt;
+$$f&#39;(u_L)&gt;s&gt;f&#39;(u_R).$$
+即特征线必须“进入”激波：左侧波速大于激波速度，右侧波速小于激波速度。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;物理熵不等式：&lt;/strong&gt; 存在凸熵 $\eta$，熵通量 $\psi$，弱解满足
+$$\eta(u)_t+\psi(u)_x\le 0.$$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;激波与稀疏波&#34;&gt;激波与稀疏波
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;激波 (shock)：&lt;/strong&gt; $u_L&amp;gt;u_R$（凸通量），间断以 RH 速度传播。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;稀疏波 (rarefaction)：&lt;/strong&gt; $u_L&amp;lt;u_R$，解连续自相似 $u(x,t)=\tilde u(x/t)$。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;著名定理速查&#34;&gt;著名定理速查
+&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;定理&lt;/th&gt;
+          &lt;th&gt;内容&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Lax 等价定理&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;对适定的线性初值问题，相容 + 稳定 $\Longleftrightarrow$ 收敛&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Lax&amp;ndash;Wendroff 定理&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;守恒型、相容的格式，其几乎处处有界的收敛子列收敛到守恒律的弱解&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Lax&amp;ndash;Milgram 定理&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;连续、强制双线性形式 + 有界线性泛函 $\Rightarrow$ 变分问题存在唯一解&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Cea 引理&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Galerkin 解误差由最佳逼近控制，常数 $M/\alpha$&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Sobolev 嵌入&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$H^1(\mathbb R)\hookrightarrow C^0$ 等，用于有限元解的正则性&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;迹定理&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;$H^1$ 函数在边界上的值属于 $H^{1/2}$，用于处理边值&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Gronwall 不等式&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;能量估计中控制指数增长：$y&amp;rsquo;(t)\le ay+b \Rightarrow y(t)\le e^{at}(y(0)+b/a)$&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;易遗漏但常考的点&#34;&gt;易遗漏但常考的点
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;显式格式稳定条件必须同时满足 CFL / 抛物条件；&lt;/strong&gt; 二维抛物显式要 $r_x+r_y\le 1/2$。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CN 格式无条件 $L^2$ 稳定，但不保持最大值原理；&lt;/strong&gt; 若要 $L^\infty$ 稳定需网比限制。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;迎风格式是耗散格式，LW 是色散格式；&lt;/strong&gt; 修正方程中的 $u_{xx}$、$u_{xxx}$ 符号决定波形变化。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;有限元刚度矩阵组装&lt;/strong&gt;关键是基函数支集只在相邻单元；质量矩阵对抛物有限元方程 $M\dot U+KU=F$ 会出现。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;守恒律弱解不唯一，&lt;/strong&gt; 必须加熵条件选出物理解；数值格式常通过添加人工粘性或在间断处满足熵不等式来保证。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;边界处理：&lt;/strong&gt; 椭圆五点格式的边界节点直接代入 Dirichlet 值；Neumann 边界用虚拟节点或偏心差分。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;收敛阶：&lt;/strong&gt; 相容阶 + 稳定 $\Rightarrow$ 同阶收敛（Lax 等价）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;例题模板&#34;&gt;例题模板
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;题型 1：&lt;/strong&gt; 用五点格式离散 $-\Delta u=f$ 于矩形区域，写矩阵并估计误差阶 $O(h^2)$。&lt;br/&gt;
+&lt;strong&gt;题型 2：&lt;/strong&gt; 对 $u_t=u_{xx}$，判断某格式是否 $L^2$ 稳定（Fourier 法）。&lt;br/&gt;
+&lt;strong&gt;题型 3：&lt;/strong&gt; 写出迎风格式、LW 格式并求修正方程，说明稳定范围。&lt;br/&gt;
+&lt;strong&gt;题型 4：&lt;/strong&gt; 给守恒律初值 $u_L,u_R$，用 RH 条件求激波速度并验证熵条件。&lt;br/&gt;
+&lt;strong&gt;题型 5：&lt;/strong&gt; 用 Galerkin 法推导两点边值问题的线性有限元刚度矩阵。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>SDE</title>
         <link>http://localhost:1313/my-homepage/p/%E9%9A%8F%E6%9C%BA%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</link>
         <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
