@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>小猫化身摄影师，在校园里给小鼠拍一期毕业照📸</title>
+        <link></link>
+        <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
         <title>PDE数值解复习</title>
         <link>http://localhost:1313/my-homepage/p/pde%E6%95%B0%E5%80%BC%E8%A7%A3/</link>
         <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -341,6 +349,14 @@ $$\eta(u)_t+\psi(u)_x\le 0.$$&lt;/li&gt;
 &lt;p&gt;        然而她已经如一阵清风，吹过了北京的重檐，现在应该已经回到湘子桥边的家乡了。&lt;/p&gt;
 &lt;p&gt;        小猫安慰我说，在广东还会见面的。的确是这样。但是，我的伤感来自于，这是一场发生在北京的告别。北京这四年的底色是苍凉、孤独、零落、感伤，但是因为有清羽和和清羽一样的北林，时常阴霾的日子里也有了一些放晴的节日。这份残留于北方冻土之上的温暖，居然先我一步离开了这里，让我在北京的最后的时日，不可避免地带上一点阴郁清冷的底色。&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>一起前往育荣校园，被“超现场”的说法忽悠了。小猫小鼠走过一段郊外野路。</title>
+        <link></link>
+        <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
         </item>
         <item>
         <title>小猫与课题组同学前往西山⛰️，晚上回来还接到了提交了论文的小鼠。</title>

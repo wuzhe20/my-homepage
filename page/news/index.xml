@@ -7,10 +7,26 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/page/news/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-homepage/page/news/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>小猫化身摄影师，在校园里给小鼠拍一期毕业照📸</title>
+        <link></link>
+        <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
         <title>小猫在首师大进行学术和篮球交流，晚上与小鼠在东操的真草上躺卧</title>
         <link></link>
         <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        <item>
+        <title>一起前往育荣校园，被“超现场”的说法忽悠了。小猫小鼠走过一段郊外野路。</title>
+        <link></link>
+        <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
         
         <guid></guid>
         <description></description>
